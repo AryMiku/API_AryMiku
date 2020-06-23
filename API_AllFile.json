@@ -5,9 +5,28 @@
         "Chapter" : "1 - 7",
         "Type" : 1,
         "FullType" : "Manga Full Color",
+        "Language" : "TH",
         "Unit" : "Vol.",
-        "LastEdited" : 2,
-        "Status" : "OnGoing"
-
+        "Status" : "OnGoing",
+        "AllChapter" : 7,
+        "FinishChapter" : 2,
+        "FileLost" : "ยังไม่มีไฟล์เสีย",
+        "LastDateEdited" : "23/06/2020",
+        "Description" : "กำลังแปลตอนนี้แปลถึงเล่มที่ 3 แล้ว"
+    },
+    {
+        "Id" : 2,
+        "Name" : "Fate/Stay Night : Heaven's Feel",
+        "Chapter" : "1 - 3",
+        "Type" : 2,
+        "FullType" : "Anime The Movie",
+        "Language" : "TH",
+        "Unit" : "Episode",
+        "Status" : "OnGoing",
+        "AllChapter" : 3,
+        "FinishChapter" : 2,
+        "FileLost" : "ยังไม่มีไฟล์เสีย",
+        "LastDateEdited" : "23/06/2020",
+        "Description" : "รอภาค 3 เข้าฉาย"
     }
 ]
