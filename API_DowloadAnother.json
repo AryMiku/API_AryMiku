@@ -36,5 +36,58 @@
         "CheckChapter" : "OnGoing",
         "Description" : "เรื่องราวของผู้มีพลังพิเศษแล้วต้องมาพบกับการผจญภัยสุดตื่นเต้น",
         "Picture" : "..//pic/secret/secret2/Gleipnir.jpg"
+    },
+    {
+        "Id" : 4,
+        "Type" : "Anime Thai",
+        "Name" : "Black Cover",
+        "Category" : "BD [1080P]",
+        "Chapter" : "1-??",
+        "CheckChapter" : "OnGoing",
+        "Download" : 
+        [
+            {
+                "EP" : 1,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nzADxlAtWsiPZ95jLvD85L1hO6q85tKZ",
+                "MKV" : false
+            },
+            {
+                "EP" : 2,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nzADxlAtWsiPZ95jLvD85L1hO6q85tKZ",
+                "MKV" : false
+            },
+            {
+                "EP" : 3,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nzADxlAtWsiPZ95jLvD85L1hO6q85tKZ",
+                "MKV" : false
+            },
+            {
+                "EP" : 4,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nzADxlAtWsiPZ95jLvD85L1hO6q85tKZ",
+                "MKV" : false
+            },
+            {
+                "EP" : 5,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nzADxlAtWsiPZ95jLvD85L1hO6q85tKZ",
+                "MKV" : false
+            },
+            {
+                "EP" : 6,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nzADxlAtWsiPZ95jLvD85L1hO6q85tKZ",
+                "MKV" : false
+            },
+            {
+                "EP" : 7,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nzADxlAtWsiPZ95jLvD85L1hO6q85tKZ",
+                "MKV" : false
+            },
+            {
+                "EP" : 8,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nzADxlAtWsiPZ95jLvD85L1hO6q85tKZ",
+                "MKV" : false
+            }
+        ],
+        "Description" : "พระเอกของเราเกิดมาในโลกที่มีการใช้พลังเวทย์ แต่พระเอกกลับไม่มี แต่ตัวเอกอยากเป็นราชาเวทมนตร์ การผจญภัยของเขาจึงได้เริ่มต้นขึ้น",
+        "Picture" : "..//pic/secret/4.jpg"
     }
 ]
