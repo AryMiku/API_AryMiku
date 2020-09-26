@@ -89,5 +89,38 @@
         ],
         "Description" : "พระเอกของเราเกิดมาในโลกที่มีการใช้พลังเวทย์ แต่พระเอกกลับไม่มี แต่ตัวเอกอยากเป็นราชาเวทมนตร์ การผจญภัยของเขาจึงได้เริ่มต้นขึ้น",
         "Picture" : "..//pic/secret/4.jpg"
+    },
+    {
+        "Id" : 5,
+        "Type" : "Manga JP",
+        "Name" : "Magical Patissier สาวน้อยเวทมนตร์ปาติซิเย่ โคซากิจัง",
+        "Category" : "Manga",
+        "Chapter" : "1-4",
+        "CheckChapter" : "END",
+        "Download" : 
+        [
+            {
+                "EP" : "เล่มที่ 1",
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nzADxlAtWsiPZ95jLvD85L1hO6q85tKZ",
+                "MKV" : false
+            },
+            {
+                "EP" : "เล่มที่ 2",
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nzADxlAtWsiPZ95jLvD85L1hO6q85tKZ",
+                "MKV" : false
+            },
+            {
+                "EP" : "เล่มที่ 3",
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nzADxlAtWsiPZ95jLvD85L1hO6q85tKZ",
+                "MKV" : false
+            },
+            {
+                "EP" : "เล่มที่ 4",
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nzADxlAtWsiPZ95jLvD85L1hO6q85tKZ",
+                "MKV" : false
+            }
+        ],
+        "Description" : "พระเอกของเราเกิดมาในโลกที่มีการใช้พลังเวทย์ แต่พระเอกกลับไม่มี แต่ตัวเอกอยากเป็นราชาเวทมนตร์ การผจญภัยของเขาจึงได้เริ่มต้นขึ้น",
+        "Picture" : "..//pic/secret/5.jpg"
     }
 ]
