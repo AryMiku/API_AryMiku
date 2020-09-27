@@ -120,7 +120,85 @@
                 "MKV" : false
             }
         ],
-        "Description" : "พระเอกของเราเกิดมาในโลกที่มีการใช้พลังเวทย์ แต่พระเอกกลับไม่มี แต่ตัวเอกอยากเป็นราชาเวทมนตร์ การผจญภัยของเขาจึงได้เริ่มต้นขึ้น",
+        "Description" : "เนื้อเรื่อง Spin-Off ของ Nesekoi ที่คราวนี้กลายเป็น โคซากิ ที่เป็นนางเอกแถมแค่นั้นยังไม่พอ ยังเป็นสาวน้อยเวทมนตร์อีกต่างหาก",
         "Picture" : "..//pic/secret/5.jpg"
+    },
+    {
+        "Id" : 6,
+        "Type" : "Anime Thai",
+        "Name" : "Maou Gakuin no Futekigousha",
+        "Category" : "TV Version [1080P]",
+        "Chapter" : "1-13",
+        "CheckChapter" : "END",
+        "Download" : 
+        [
+            {
+                "EP" : 1,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nRPZ0F2f3oG51eLPDiQ0BrBAQcmfRSu6",
+                "MKV" : false
+            },
+            {
+                "EP" : 2,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nRPZ0F2f3oG51eLPDiQ0BrBAQcmfRSu6",
+                "MKV" : false
+            },
+            {
+                "EP" : 3,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nRPZ0F2f3oG51eLPDiQ0BrBAQcmfRSu6",
+                "MKV" : false
+            },
+            {
+                "EP" : 4,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nRPZ0F2f3oG51eLPDiQ0BrBAQcmfRSu6",
+                "MKV" : false
+            },
+            {
+                "EP" : 5,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nRPZ0F2f3oG51eLPDiQ0BrBAQcmfRSu6",
+                "MKV" : false
+            },
+            {
+                "EP" : 6,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nRPZ0F2f3oG51eLPDiQ0BrBAQcmfRSu6",
+                "MKV" : false
+            },
+            {
+                "EP" : 7,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nRPZ0F2f3oG51eLPDiQ0BrBAQcmfRSu6",
+                "MKV" : false
+            },
+            {
+                "EP" : 8,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nRPZ0F2f3oG51eLPDiQ0BrBAQcmfRSu6",
+                "MKV" : false
+            },
+            {
+                "EP" : 9,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nRPZ0F2f3oG51eLPDiQ0BrBAQcmfRSu6",
+                "MKV" : false
+            },
+            {
+                "EP" : 10,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nRPZ0F2f3oG51eLPDiQ0BrBAQcmfRSu6",
+                "MKV" : false
+            },
+            {
+                "EP" : 11,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nRPZ0F2f3oG51eLPDiQ0BrBAQcmfRSu6",
+                "MKV" : false
+            },
+            {
+                "EP" : 12,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nRPZ0F2f3oG51eLPDiQ0BrBAQcmfRSu6",
+                "MKV" : false
+            },
+            {
+                "EP" : 13,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1nRPZ0F2f3oG51eLPDiQ0BrBAQcmfRSu6",
+                "MKV" : false
+            }
+        ],
+        "Description" : "พระเอกผู้ที่กลับมาเกิดใหม่ ซึ่งก็คือจอมมารผู้คิดจะทำลายล้างโลกเมื่อ 2,000 ปีก่อน แต่กลับยอมสละชีวิตเพื่อปกป้องรักษาโลกเอาไว้",
+        "Picture" : "..//pic/secret/6.jpg"
     }
 ]
