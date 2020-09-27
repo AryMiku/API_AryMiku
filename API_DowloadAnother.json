@@ -125,7 +125,7 @@
     },
     {
         "Id" : 6,
-        "Type" : "Anime Thai",
+        "Type" : "Anime SubThai",
         "Name" : "Maou Gakuin no Futekigousha",
         "Category" : "TV Version [1080P]",
         "Chapter" : "1-13",
@@ -203,7 +203,7 @@
     },
     {
         "Id" : 7,
-        "Type" : "Anime Thai",
+        "Type" : "Anime SubThai",
         "Name" : "Uzaki-chan wa Asobitai!",
         "Category" : "TV Version [1080P]",
         "Chapter" : "1-12",
