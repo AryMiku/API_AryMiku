@@ -273,5 +273,78 @@
         ],
         "Description" : "พระเอกผู้เป็นคนมืดมนไม่ค่อยสนใจโลก แต่กลับได้เจอรุ่นน้องที่มาเข้ามหาลัยเดียวกัน ซึ่งเข้ามาเปลี่ยนแปลงชีวิตพระเอกด้วยการแกล้งรูปแบบต่างๆ",
         "Picture" : "..//pic/secret/7.jpg"
+    },
+    {
+        "Id" : 8,
+        "Type" : "Anime SubThai",
+        "Name" : "Kanojo, Okarishimasu สะดุดรักยัยแฟนเช่า",
+        "Category" : "TV Version [1080P]",
+        "Chapter" : "1-12",
+        "CheckChapter" : "END",
+        "Download" : 
+        [
+            {
+                "EP" : 1,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1-aSNPwNb7zEKYKKKti91Z3MUJy9Lqdlo",
+                "MKV" : false
+            },
+            {
+                "EP" : 2,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1-aSNPwNb7zEKYKKKti91Z3MUJy9Lqdlo",
+                "MKV" : false
+            },
+            {
+                "EP" : 3,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1-aSNPwNb7zEKYKKKti91Z3MUJy9Lqdlo",
+                "MKV" : false
+            },
+            {
+                "EP" : 4,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1-aSNPwNb7zEKYKKKti91Z3MUJy9Lqdlo",
+                "MKV" : false
+            },
+            {
+                "EP" : 5,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1-aSNPwNb7zEKYKKKti91Z3MUJy9Lqdlo",
+                "MKV" : false
+            },
+            {
+                "EP" : 6,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1-aSNPwNb7zEKYKKKti91Z3MUJy9Lqdlo",
+                "MKV" : false
+            },
+            {
+                "EP" : 7,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1-aSNPwNb7zEKYKKKti91Z3MUJy9Lqdlo",
+                "MKV" : false
+            },
+            {
+                "EP" : 8,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1-aSNPwNb7zEKYKKKti91Z3MUJy9Lqdlo",
+                "MKV" : false
+            },
+            {
+                "EP" : 9,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1-aSNPwNb7zEKYKKKti91Z3MUJy9Lqdlo",
+                "MKV" : false
+            },
+            {
+                "EP" : 10,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1-aSNPwNb7zEKYKKKti91Z3MUJy9Lqdlo",
+                "MKV" : false
+            },
+            {
+                "EP" : 11,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1-aSNPwNb7zEKYKKKti91Z3MUJy9Lqdlo",
+                "MKV" : false
+            },
+            {
+                "EP" : 12,
+                "MP4" : "https://drive.google.com/drive/u/0/folders/1-aSNPwNb7zEKYKKKti91Z3MUJy9Lqdlo",
+                "MKV" : false
+            }
+        ],
+        "Description" : "พระเอกที่อยากมีแฟนสาว ก็ได้พบกับแฟนตามที่ตัวเองหวังเอาไว้ แต่กลับกลายเป็นว่าโดนแฟนนั้นบอกเลย จนได้ไปเจอการเช่าแฟนเข้า แล้วได้เจอกับ มิซึฮาระ จนทุกอย่างก็เปลี่ยนไป",
+        "Picture" : "..//pic/secret/8.jpg"
     }
 ]
