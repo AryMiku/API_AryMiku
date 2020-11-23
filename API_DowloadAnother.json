@@ -420,6 +420,55 @@
         ],
         "Description" : "ระหว่างที่กำลังตามหาเจ้าของจดหมายรัก จนพบว่าผู้ต้องสงสัยน่าจะเป็นคนใกล้ตัวที่ดูโรคจิตไม่เบา ชีวิตอันแสนปกติสุขของผมก็เปลี่ยนไปตลอดกาล ถึงกระนั้นผมก็ไม่มีวันยอมแพ้หรอกนะ เพราะซินเดอเรลลาของผมจะต้องรอผมอยู่อย่างแน่นอน... มาคราวนี้ นอกจากจะต้องเป็นที่ปรึกษาปัญหาความรักของโลลิแล้ว รองประธานสภานักเรียนปริศนา ก็ยังโดดเข้ามาร่วมวงด้วยให้เรื่องมันอลหม่านมากขึ้นไปอีกแน่ะ นี่คือเลิฟคอเมดี้สายพันธุ์ใหม่ ที่ภูมิใจนำเสนอเรื่องความโรคจิตของตัวละคร..",
         "Picture" : "..//pic/secret/9.jpg"
+    },
+    {
+        "Id" : 10,
+        "Type" : "Manga TH",
+        "Name" : "จอมมารต่างโลกกับบริวารสาวนักอัญเชิญ",
+        "Category" : "Manga",
+        "Chapter" : "1-8",
+        "CheckChapter" : "OnGoing",
+        "Trans" : {"Trans" : "Luckpims", "Link" : "https://www.facebook.com/Luckpim"},
+        "Story" : ["Hentai","Comedy","Another Eearth","Fantasy","Love"],
+        "Download" : [
+            {
+                "EP" : "จอมมารต่างโลกกับบริวารสาวนักอัญเชิญ เล่ม 01",
+                "MP4" : "https://drive.google.com/file/d/1IPsTQvssPFFvdEyyvkveGiAYAluykJyA/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "จอมมารต่างโลกกับบริวารสาวนักอัญเชิญ เล่ม 02",
+                "MP4" : "https://drive.google.com/file/d/1C2C4-C3AHswFHchno5bd4Dkmt8xXGP_L/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "จอมมารต่างโลกกับบริวารสาวนักอัญเชิญ เล่ม 03",
+                "MP4" : "https://drive.google.com/file/d/1Buq3MfFn4LIhIASt-M9MGdqviLTGR0FH/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "จอมมารต่างโลกกับบริวารสาวนักอัญเชิญ เล่ม 04",
+                "MP4" : "https://drive.google.com/file/d/1YkJLl6BNqLPHQ5WtY3fDgJ_c0QJ7cyWi/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "จอมมารต่างโลกกับบริวารสาวนักอัญเชิญ เล่ม 05",
+                "MP4" : "https://drive.google.com/file/d/1O3WgTW6AKdoMczoFbr6lHKdvPzkxkED8/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "จอมมารต่างโลกกับบริวารสาวนักอัญเชิญ เล่ม 06",
+                "MP4" : "https://drive.google.com/file/d/1NvR5Ly3GV9uPLCqngHl8B9eujg2j2JHF/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "จอมมารต่างโลกกับบริวารสาวนักอัญเชิญ เล่ม 07",
+                "MP4" : "https://drive.google.com/file/d/1IgiJXBK6bii0mVrbHeplU2Z3LU9ZFjFs/view",
+                "MKV" : false
+            }
+        ],
+        "Description" : "เมื่อพระเอกเป็นเพียงคนติดเกมคนหนึ่ง แต่กลับต้องมาโดนอัญเชิญไปต่างโลก แถมยังมีพลังที่ควบคุมได้แม้กระทั่งผู้อัญเชิญเขามาอีกด้วย",
+        "Picture" : "https://sv1.picz.in.th/images/2020/11/23/bImZuD.png"
     }
     
 ]
