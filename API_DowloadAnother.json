@@ -469,6 +469,292 @@
         ],
         "Description" : "เมื่อพระเอกเป็นเพียงคนติดเกมคนหนึ่ง แต่กลับต้องมาโดนอัญเชิญไปต่างโลก แถมยังมีพลังที่ควบคุมได้แม้กระทั่งผู้อัญเชิญเขามาอีกด้วย",
         "Picture" : "https://sv1.picz.in.th/images/2020/11/23/bImZuD.png"
+    },
+    {
+        "Id" : 10,
+        "Type" : "Manhwa TH",
+        "Name" : "Sister Neighbors",
+        "Category" : "Manga",
+        "Chapter" : "1-53",
+        "CheckChapter" : "OnGoing",
+        "Trans" : {"Trans" : "นักแปล Hiroki", "Link" : "https://www.facebook.com/Hiroki.Translators"},
+        "Story" : ["Hentai","Drama","Love"],
+        "Download" : [
+            {
+                "EP" : "Sister Neighbors - 001",
+                "MP4" : "",
+                "MKV" : false,
+                "Status" : -1
+            },
+            {
+                "EP" : "Sister Neighbors - 002",
+                "MP4" : "https://drive.google.com/file/d/1cQ4Sb_X_FgLzI9AFi_EJqUIsXNiL4Kpg/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 002",
+                "MP4" : "https://drive.google.com/file/d/1cQ4Sb_X_FgLzI9AFi_EJqUIsXNiL4Kpg/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 003",
+                "MP4" : "https://drive.google.com/file/d/1ImFJKn8IJRLtm1wPxRL4Qwl3pLVBD_Sv/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 004",
+                "MP4" : "https://drive.google.com/file/d/1ItNxZsbgLxZOjdkDNogVqxz49EU0FE0r/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 005",
+                "MP4" : "https://drive.google.com/file/d/1Hm-jNPKSP1Oi7uBonhkuXbrr5cBEBNjn/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 006",
+                "MP4" : "https://drive.google.com/file/d/1KmvuqsoaTix4OwKi8ekAwTBqW0KgeR0o/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 007",
+                "MP4" : "https://drive.google.com/file/d/1AvhPzfrrx1zEK_6Rsiv6lrGrDCPVYNml/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 008",
+                "MP4" : "https://drive.google.com/file/d/18aizORRDmkMWyLIHQmfeNvsdSO_Qdj6E/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 009",
+                "MP4" : "https://drive.google.com/file/d/1wJUOAtbJqQ0fol2vqQuq_cb387e2Z5Yl/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 010",
+                "MP4" : "https://drive.google.com/file/d/1265Dgi2ikugVjgKxBMdsREssST2xMeG9/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 011",
+                "MP4" : "https://drive.google.com/file/d/1pfjDOMR2qrJzKzfTwfCks0Ls0fJor7DI/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 012",
+                "MP4" : "https://drive.google.com/file/d/1YPNRaydBX_Lx0l8tqsDDS_G3jvP6b2fD/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 013",
+                "MP4" : "https://drive.google.com/file/d/1YZvksfBmp3EVCu1q96zaH1vlhMwKIA7s/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 014",
+                "MP4" : "https://drive.google.com/file/d/14n8No5GTCyb5ylzYUlMvOUcqvuhVQSwU/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 015",
+                "MP4" : "https://drive.google.com/file/d/1qGP1FpRXCoxdh5UAXs7QXqhO7bbrSQn0/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 016",
+                "MP4" : "https://drive.google.com/file/d/1-r0vN_-VTff4ZG4t3fECKUsvFZj19DjW/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 017",
+                "MP4" : "https://drive.google.com/file/d/14wdMJGFqiM8xNe5VmLPrBPZc_7xCaIvA/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 018",
+                "MP4" : "https://drive.google.com/file/d/16sOy5LS2t7TGsMb6UTjDobKarZqteQ7K/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 019",
+                "MP4" : "https://drive.google.com/file/d/1miqB0gbf53829qLc7y623I4DXgWYWiJC/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 020",
+                "MP4" : "https://drive.google.com/file/d/1HF7xmF3Yr1fBtEJRGhnCEzLXM4KYxks0/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 021",
+                "MP4" : "https://drive.google.com/file/d/1g_BcBBXMe5yQ0cSOfy_uxfaw1c68EwPV/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 022",
+                "MP4" : "https://drive.google.com/file/d/1w7fV435QcouYWyjJDb89zO8ey0wcne_t/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 023",
+                "MP4" : "https://drive.google.com/file/d/15hg9zevSm_u05qL57tNUkDarUpxq3o-P/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 024",
+                "MP4" : "https://drive.google.com/file/d/1a_m3AoWKnkLrcmgEjNt6oCax6PLQHrwG/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 025",
+                "MP4" : "https://drive.google.com/file/d/1Dt6zMzQaaOqhOZJ98pXmjTJWE0RTdcIM/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 026",
+                "MP4" : "https://drive.google.com/file/d/12xVHoAkaf9zPI2lFP-AhfQknTs39K0JX/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 027",
+                "MP4" : "https://drive.google.com/file/d/1dKZDx15S34hFjVSeySL-CspDHD7dpE7P/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 028",
+                "MP4" : "https://drive.google.com/file/d/15OhvUL06r59IVrNks_tqTBjL2xl9Zp5X/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 029",
+                "MP4" : "https://drive.google.com/file/d/1Ov-W9kzqBR8q74OMgRQkwBFhnPbV7ijf/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 030",
+                "MP4" : "https://drive.google.com/file/d/13xBNxTYQVbkTbg0HQaHPVDOUTDnvyqhu/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 031",
+                "MP4" : "https://drive.google.com/file/d/1fHkPJMIekp3COScyw9kSplfjbCIuP9E_/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 032",
+                "MP4" : "https://drive.google.com/file/d/1UpsIRjUD_sRIThE8zihxzuYfiRroemnK/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 033",
+                "MP4" : "https://drive.google.com/file/d/1YTF-eMP4Ie04hd6rGnhW4KqtdhSePvSA/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 034",
+                "MP4" : "https://drive.google.com/file/d/1jXgXMmTxIx4oDz8LuqcRE-p54cb__Kcy/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 035",
+                "MP4" : "https://drive.google.com/file/d/1TsTf2G_HWgk1uKqg7Pb52ACq3hjEig44/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 036",
+                "MP4" : "https://drive.google.com/file/d/1z8mTS4-sBm4jDF0uAqrOwDZyRADiQCDq/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 037",
+                "MP4" : "https://drive.google.com/file/d/16ALS0LT5EFm9SIzXte9av_Nhz9pj0FYw/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 038",
+                "MP4" : "https://drive.google.com/file/d/1oLQIEgS_0C82kn7BZU3FKh7UKh_IgJxA/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 039",
+                "MP4" : "https://drive.google.com/file/d/1Sl0w0YQQCmPgXwzHPSi9Ei0axuu7-nq9/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 040",
+                "MP4" : "https://drive.google.com/file/d/1s1Al1svJYJI7RjFPnjbNmBfKFrvnArkf/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 041",
+                "MP4" : "https://drive.google.com/file/d/1kc3awEzgVeRWh9iIy8IIw2Z41mFoqGaF/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 042",
+                "MP4" : "https://drive.google.com/file/d/1HOhOR1TB40vRsVuV3igd6rdgQk6alyUM/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 043",
+                "MP4" : "https://drive.google.com/file/d/1yXDYSq07MK9r9QxQQd3eZWb3MMNhijdR/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 044",
+                "MP4" : "https://drive.google.com/file/d/1NZPGEMjXYksc-nug0YFiFc8Y5C1FTPXK/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 045",
+                "MP4" : "https://drive.google.com/file/d/1fC9J7uCCNVR7I1ApOFoTF9AYcbYL_voY/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 046",
+                "MP4" : "",
+                "MKV" : false,
+                "Status" : -1
+            },
+            {
+                "EP" : "Sister Neighbors - 047",
+                "MP4" : "https://drive.google.com/file/d/1yNmUNKyNzjGDezT0Pa8JCrpW8UMQYJ8P/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 048",
+                "MP4" : "https://drive.google.com/file/d/1hbQbH4-lht0ij0I7eHo0CK9qzrejN6pv/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 049",
+                "MP4" : "https://drive.google.com/file/d/1N9a8QBFF7gliAJDdNW6qU_xEHp42GyBN/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 050",
+                "MP4" : "https://drive.google.com/file/d/17DbGUflpd3KDMkgPLxc30kmn2XHC2kpB/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 051",
+                "MP4" : "https://drive.google.com/file/d/1oZuYXsxosUCIZp_ZhqwbQvQ_eBL1TH1u/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 052",
+                "MP4" : "https://drive.google.com/file/d/1KnDdr5AVMKHg5Z3KJgFDCurL3xYvXcI5/view",
+                "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 053",
+                "MP4" : "https://drive.google.com/file/d/1fGN0_tUQ9nSNDY8bEyLK_sXm7kQv3lS1/view",
+                "MKV" : false
+            }
+        ],
+        "Description" : "เมื่อพระเอกนั้นรู้จักกับคนข้างบ้าน แต่ว่าสิ่งที่พระเอกอยากได้นั้นก็คือความที่เป็นมากกว่าเพื่อน",
+        "Picture" : "https://sv1.picz.in.th/images/2020/12/01/j3zNL8.jpg"
     }
     
 ]
