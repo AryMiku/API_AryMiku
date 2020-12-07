@@ -475,7 +475,7 @@
         "Type" : "Manhwa TH",
         "Name" : "Sister Neighbors",
         "Category" : "Manga",
-        "Chapter" : "1-53",
+        "Chapter" : "1-54",
         "CheckChapter" : "OnGoing",
         "Trans" : {"Trans" : "นักแปล Hiroki", "Link" : "https://www.facebook.com/Hiroki.Translators"},
         "Story" : ["Hentai","Drama","Love"],
@@ -751,6 +751,11 @@
                 "EP" : "Sister Neighbors - 053",
                 "MP4" : "https://drive.google.com/file/d/1fGN0_tUQ9nSNDY8bEyLK_sXm7kQv3lS1/view",
                 "MKV" : false
+            },
+            {
+                "EP" : "Sister Neighbors - 054",
+                "MP4" : "https://drive.google.com/file/d/1x8Rjvr78E5FX6T6xeCgjB2j4EjslQo5v/view",
+                "MKV" : false
             }
         ],
         "Description" : "เมื่อพระเอกนั้นรู้จักกับคนข้างบ้าน แต่ว่าสิ่งที่พระเอกอยากได้นั้นก็คือความที่เป็นมากกว่าเพื่อน",
@@ -784,6 +789,40 @@
         ],
         "Description" : "เมื่อการดูเอลปกตินั้นมีความยุ่งยากมากเกินไป พระเอกของเรื่องจึงคิดค้นระบบการดูเอลแบบใหม่ขึ้นมา เพื่อให้ได้รับความสนุกมากขึ้น",
         "Picture" : "https://sv1.picz.in.th/images/2020/12/05/jKsUCP.jpg"
+    },
+    {
+        "Id" : 13,
+        "Type" : "Anime TH",
+        "Name" : "Peter Grill to Kenja no Jikan",
+        "Category" : "BD [1080P]",
+        "Chapter" : "1-4",
+        "CheckChapter" : "OnGoing",
+        "Trans" : {"Trans" : "Nemuria-Fansub", "Link" : "https://www.facebook.com/NeMuRiaPresent"},
+        "Story" : ["Hentai","18+","Love"],
+        "Download" : [
+            {
+                "EP" : "Peter Grill to Kenja no Jikan - 01 [BD]",
+                "MP4" : "https://mega.nz/file/C8cU0BxY#8nrv6MpwN2UEfOjipRIqxpcl9H51Lo3uwIxqELiNmlM",
+                "MKV" : false
+            },
+            {
+                "EP" : "Peter Grill to Kenja no Jikan - 02 [BD]",
+                "MP4" : "https://mega.nz/file/SgUSwTQB#jKAat_VnOry_fvC89n7H2rd3XpeM9_vXw1iKn5Vzg1U",
+                "MKV" : false
+            },
+            {
+                "EP" : "Peter Grill to Kenja no Jikan - 03 [BD]",
+                "MP4" : "https://mega.nz/file/W9EUkTSR#qEq-j1h0SUQhxLLWQJQTv_iZ8jrk__MqG3UkPk0Jmd8",
+                "MKV" : false
+            },
+            {
+                "EP" : "Peter Grill to Kenja no Jikan - 04 [BD]",
+                "MP4" : "https://mega.nz/file/7wVAjLqI#n_uZCYeNugshtGYKd4JHNXTEYsiPTIRU7Il0pRAsTig",
+                "MKV" : false
+            }
+        ],
+        "Description" : "พระเอกเรานั้นได้ชนะเลิศแล้วเป็นผู้แข็งแกร่งของโลกใบนี้ ซึ่งพระเอกนั้นมีแฟนอยู่ แต่กลับเป็นว่าพวกคนในเมืองอื่นๆก็อยากได้น้ำเชื่อพระเอกไปเพื่อมีลูก",
+        "Picture" : "https://sv1.picz.in.th/images/2020/12/07/jiycjg.jpg"
     }
     
 ]
