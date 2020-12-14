@@ -819,10 +819,69 @@
                 "EP" : "Peter Grill to Kenja no Jikan - 04 [BD]",
                 "MP4" : "https://mega.nz/file/7wVAjLqI#n_uZCYeNugshtGYKd4JHNXTEYsiPTIRU7Il0pRAsTig",
                 "MKV" : false
+            },
+            {
+                "EP" : "Peter Grill to Kenja no Jikan - 05 [BD]",
+                "MP4" : "https://mega.nz/file/jR1mwJDZ#wz7s_0AkBXm-QWqgzxcV5AkK2fVWwh_fOYTgI1effy8",
+                "MKV" : false
+            },
+            {
+                "EP" : "Peter Grill to Kenja no Jikan - 06 [BD]",
+                "MP4" : "https://mega.nz/file/zdFAWZgI#EblOwKP_YgWUdmdfMHjFT2Wtb-7_83ynoQxQOQ-Kyso",
+                "MKV" : false
+            },
+            {
+                "EP" : "Peter Grill to Kenja no Jikan - 07 [BD]",
+                "MP4" : "https://mega.nz/file/Kdl2AT4R#JYqn7HAk15m_f5IER0VBPhQKkH7eAdBqEVqbtviDxjk",
+                "MKV" : false
+            },
+            {
+                "EP" : "Peter Grill to Kenja no Jikan - 08 [BD]",
+                "MP4" : "https://mega.nz/file/jY9SHDZK#moeC9IRNoR6LRHFzjIE6n8bbP18JLSmVlMWiNbJxaJI",
+                "MKV" : false
+            },
+            {
+                "EP" : "Peter Grill to Kenja no Jikan - 09 [BD]",
+                "MP4" : "https://mega.nz/file/GAkGDLAB#Dk5-SY4nAiRmIYGWzlMniGATuCadOtadWUJL0nGOkWY",
+                "MKV" : false
+            },
+            {
+                "EP" : "Peter Grill to Kenja no Jikan - 10 [BD]",
+                "MP4" : "https://mega.nz/file/bUNQUJRJ#8550mFEpVun_DHRQca0Z6-2FeiRbreqMb7piAkPgfSM",
+                "MKV" : false
+            },
+            {
+                "EP" : "Peter Grill to Kenja no Jikan - 11 [BD]",
+                "MP4" : "https://mega.nz/file/qIkiCR7L#4GU_6qImX-4DcQs3ZDtaVc9j1s77RnOpXg9eS-bGWJg",
+                "MKV" : false
+            },
+            {
+                "EP" : "Peter Grill to Kenja no Jikan - 12 [BD][END]",
+                "MP4" : "https://mega.nz/file/3Q9mwRZa#UbrJyqtwhBKatYhVPEVuaimvBG4Ed9k-25esFQbcKo4",
+                "MKV" : false
             }
         ],
         "Description" : "พระเอกเรานั้นได้ชนะเลิศแล้วเป็นผู้แข็งแกร่งของโลกใบนี้ ซึ่งพระเอกนั้นมีแฟนอยู่ แต่กลับเป็นว่าพวกคนในเมืองอื่นๆก็อยากได้น้ำเชื่อพระเอกไปเพื่อมีลูก",
         "Picture" : "https://sv1.picz.in.th/images/2020/12/07/jiycjg.jpg"
+    },
+    {
+        "Id" : 14,
+        "Type" : "Anime SubThai",
+        "Name" : "Masamune-kun no Revenge",
+        "Category" : "BD [1080P]",
+        "Chapter" : "OVA",
+        "CheckChapter" : "END",
+        "Trans" : {"Trans" : "Aporiz-FS", "Link" : "https://www.facebook.com/AporizFS"},
+        "Story" : ["Comedy","16+","School","Love"],
+        "Download" : [
+            {
+                "EP" : "Masamune-kun no Revenge - OVA [BD]",
+                "MP4" : false,
+                "MKV" : "https://drive.google.com/file/d/1Q_2azl-MhMSTsnDakSgUXxKeS00HNqhG"
+            }
+        ],
+        "Description" : "พระเอกเรานั้นเคยเป็นคนอ้วนมาก่อน แล้วโดนคนอื่นดูถูก เพื่อที่จะล้างแค้นให้ได้ พระเอกจึงได้ทำตัวให้ผมแล้วเข้าไปหาคนที่เคยดูถูกเขาในอดีต",
+        "Picture" : "https://sv1.picz.in.th/images/2020/12/14/jD5u4J.jpg"
     }
     
 ]
