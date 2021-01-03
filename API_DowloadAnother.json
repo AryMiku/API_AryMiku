@@ -961,6 +961,19 @@
         ],
         "Description" : "ภาคต่อของเทวดาขาจร ซึ่งในภาคนี้จะต้องสู้กับศัตรูที่เป็นคู่ปรับของเขาในอดีต และ ผจญภัยไปกับยมโลกอีกด้วย",
         "Picture" : "https://sv1.picz.in.th/images/2020/12/14/jDEpCg.jpg"
+    },
+    {
+        "Id" : 16,
+        "Type" : "Anime SubThai",
+        "Name" : "Danmachi Season 3 (มันผิดรึไง ถ้าใจอยากจะพบรักในดันเจี้ยน Season 3)",
+        "Category" : "BD [1080P]",
+        "Chapter" : "1 - 12",
+        "CheckChapter" : "END",
+        "Trans" : {"Trans" : "Nemuria", "Link" : "https://www.facebook.com/NeMuRiaPresent"},
+        "Story" : ["RPG","Action"],
+        "Download" : "16.json",
+        "Description" : "ภาคต่อของการผจญภัยของเบล เด็กหนุ่มผู้ที่อยากจะเป็นนักผจญภัย ศึกในคราวนี้จะต้องพบเจอกับเหล่ามอนเตอร์พูดได้ เหล่า แฟมิเลีย ของเขานั้นจะตอบโต้เรื่องนี้กันยังไง",
+        "Picture" : "https://sv1.picz.in.th/images/2021/01/03/l4GYID.jpg"
     }
     
 ]
