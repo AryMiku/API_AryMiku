@@ -974,6 +974,19 @@
         "Download" : "16.json",
         "Description" : "ภาคต่อของการผจญภัยของเบล เด็กหนุ่มผู้ที่อยากจะเป็นนักผจญภัย ศึกในคราวนี้จะต้องพบเจอกับเหล่ามอนเตอร์พูดได้ เหล่า แฟมิเลีย ของเขานั้นจะตอบโต้เรื่องนี้กันยังไง",
         "Picture" : "https://sv1.picz.in.th/images/2021/01/03/l4GYID.jpg"
+    },
+    {
+        "Id" : 17,
+        "Type" : "Series",
+        "Name" : "The Mandalorian Season 1",
+        "Category" : "TV Series",
+        "Chapter" : "1 - 8",
+        "CheckChapter" : "END",
+        "Trans" : {"Trans" : "SiamBit", "Link" : "https://m.siambit.me/"},
+        "Story" : ["Action"],
+        "Download" : "17.json",
+        "Description" : "เนื้อเรื่องหลังจากที่ลุคและพรรคพวกได้จัดการเหล่าจักรวรรดิลงได้สำเร็จ นี้เป็นเนื้อเรื่องเสริมของตัวละครนักล่าค่าหัวที่ออกเดินทางใช้ชีวิตและชีวิตของเขาต้องเปลี่ยนไปหลังจากได้พบเจอกับบุคคลปริศนา",
+        "Picture" : "https://sv1.picz.in.th/images/2021/01/10/lK6D5u.jpg"
     }
     
 ]
