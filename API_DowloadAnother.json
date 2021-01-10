@@ -987,6 +987,19 @@
         "Download" : "17.json",
         "Description" : "เนื้อเรื่องหลังจากที่ลุคและพรรคพวกได้จัดการเหล่าจักรวรรดิลงได้สำเร็จ นี้เป็นเนื้อเรื่องเสริมของตัวละครนักล่าค่าหัวที่ออกเดินทางใช้ชีวิตและชีวิตของเขาต้องเปลี่ยนไปหลังจากได้พบเจอกับบุคคลปริศนา",
         "Picture" : "https://sv1.picz.in.th/images/2021/01/10/lK6D5u.jpg"
+    },
+    {
+        "Id" : 18,
+        "Type" : "Series",
+        "Name" : "The Mandalorian Season 2",
+        "Category" : "TV Series",
+        "Chapter" : "1 - 8",
+        "CheckChapter" : "END",
+        "Trans" : {"Trans" : "SiamBit", "Link" : "https://m.siambit.me/"},
+        "Story" : ["Action"],
+        "Download" : "18.json",
+        "Description" : "หลังจากที่ได้เก็บเลี้ยงดูเผ่าพันธ์สีเขียวตัวเล็ก เขาก็พยายามจะหาที่อยู่ให้กับมันเพื่อที่จะให้มันปลอดภัยจากอันตรายอื่นๆ",
+        "Picture" : "https://sv1.picz.in.th/images/2021/01/10/lKrrBE.jpg"
     }
     
 ]
