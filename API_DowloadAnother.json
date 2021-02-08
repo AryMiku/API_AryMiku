@@ -1000,6 +1000,19 @@
         "Download" : "18.json",
         "Description" : "หลังจากที่ได้เก็บเลี้ยงดูเผ่าพันธ์สีเขียวตัวเล็ก เขาก็พยายามจะหาที่อยู่ให้กับมันเพื่อที่จะให้มันปลอดภัยจากอันตรายอื่นๆ",
         "Picture" : "https://sv1.picz.in.th/images/2021/01/10/lKrrBE.jpg"
+    },
+    {
+        "Id" : 19,
+        "Type" : "Manga TH",
+        "Name" : "Biohazard Heavenly Island หายนะเกาะสวรรค์",
+        "Category" : "Manga",
+        "Chapter" : "Vol.01 - 05",
+        "CheckChapter" : "END",
+        "Trans" : {"Trans" : "ebookcartoonpdf", "Link" : "http://www.ebookcartoonpdf.com/"},
+        "Story" : ["Action","18+"],
+        "Download" : "19.json",
+        "Description" : "รายการโทรทัศน์ยอดนิยมอย่าง 'ไอดอลเซอไววัล' ยกกองถ่ายมาที่เกาะของทวีปอเมริกาใต้เพื่อให้ไอดอลในชุดว่ายน้ำแข่งขันกันเอง แต่ที่นั่นกลับเป็นเกาะอันตรายที่แคลร์ เรดฟิล สมาชิก 'เทร่า แซฟ' ขององค์กร NGO กำลังเข้าไปตรวจสอบอยู่",
+        "Picture" : "https://sv1.picz.in.th/images/2021/02/08/o3uLAg.jpg"
     }
     
 ]

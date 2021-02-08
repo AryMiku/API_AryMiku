@@ -1,0 +1,44 @@
+{
+    "Id" : 19,
+    "Type" : "Manga TH",
+    "Name" : "Biohazard Heavenly Island หายนะเกาะสวรรค์",
+    "Category" : "Manga",
+    "Chapter" : "Vol.01 - 05",
+    "CheckChapter" : "END",
+    "Trans" : {"Trans" : "ebookcartoonpdf", "Link" : "http://www.ebookcartoonpdf.com/"},
+    "Story" : ["Action","18+"],
+    "Download" : [
+        {
+            "EP" : "Biohazard Heavenly Island หายนะเกาะสวรรค์ เล่ม 01 [TH]",
+            "Dowload" : [
+                {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1q9uFiqx4d3Pp8dn5o8SyqERbrcME3UcX/view"}
+            ]
+        },
+        {
+            "EP" : "Biohazard Heavenly Island หายนะเกาะสวรรค์ เล่ม 02 [TH]",
+            "Dowload" : [
+                {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1YsC2jf8Xu28AKIqwTlgS_yIy-sCcq_gX/view"}
+            ]
+        },
+        {
+            "EP" : "Biohazard Heavenly Island หายนะเกาะสวรรค์ เล่ม 03 [TH]",
+            "Dowload" : [
+                {"Name" : "PDF","Link" : "https://drive.google.com/file/d/15CFpA3Y4iCyW5wnNlO7mryNT9K2rksZe/view"}
+            ]
+        },
+        {
+            "EP" : "Biohazard Heavenly Island หายนะเกาะสวรรค์ เล่ม 04 [TH]",
+            "Dowload" : [
+                {"Name" : "PDF","Link" : "https://drive.google.com/file/d/147Q-d7h376IhbaldBY0IhuMPOFopTsfa/view"}
+            ]
+        },
+        {
+            "EP" : "Biohazard Heavenly Island หายนะเกาะสวรรค์ เล่ม 05 [TH]",
+            "Dowload" : [
+                {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1MP1zIKvQSSyYbuz7gouD3mp4JpI7cIwa/view"}
+            ]
+        }
+    ],
+    "Description" : "รายการโทรทัศน์ยอดนิยมอย่าง 'ไอดอลเซอไววัล' ยกกองถ่ายมาที่เกาะของทวีปอเมริกาใต้เพื่อให้ไอดอลในชุดว่ายน้ำแข่งขันกันเอง แต่ที่นั่นกลับเป็นเกาะอันตรายที่แคลร์ เรดฟิล สมาชิก 'เทร่า แซฟ' ขององค์กร NGO กำลังเข้าไปตรวจสอบอยู่",
+    "Picture" : "https://sv1.picz.in.th/images/2021/02/08/o3uLAg.jpg"
+}
