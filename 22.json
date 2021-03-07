@@ -1,0 +1,62 @@
+{
+    "Id" : 22,
+    "Type" : "Manga TH",
+    "Name" : "Nande Koko ni Sensei ga (ไหงคุณครูมาอยู่ที่นี้ได้ครับ)",
+    "Category" : "Manga",
+    "Chapter" : "01 - 08",
+    "CheckChapter" : "OnGoing",
+    "Trans" : {"Trans" : "Meb", "Link" : "https://www.mebmarket.com/index.php?action=search_book&type=author_name&search=soborou&exact_keyword=1&page_no=1"},
+    "Story" : ["Hentai","Comedy","18+","School","Love"],
+    "Download" : [
+        {
+            "EP" : "ไหงคุณครูมาอยู่ที่นี้ได้ครับ เล่ม 01 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (JPEG)","Link" : "https://drive.google.com/file/d/1Nd4gufrXFwcVz5xRdNZuECq7exxzRlOo/view"}
+            ]
+        },
+        {
+            "EP" : "ไหงคุณครูมาอยู่ที่นี้ได้ครับ เล่ม 02 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (JPEG)","Link" : "https://drive.google.com/file/d/12glM0GMZz6ADWMx47Wx3DkD2lL17Y3OP/view"}
+            ]
+        },
+        {
+            "EP" : "ไหงคุณครูมาอยู่ที่นี้ได้ครับ เล่ม 03 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (JPEG)","Link" : "https://drive.google.com/file/d/1QyoeqNg7D-omUcro3dMeCrGJGowyyTjt/view"}
+            ]
+        },
+        {
+            "EP" : "ไหงคุณครูมาอยู่ที่นี้ได้ครับ เล่ม 04 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (JPEG)","Link" : "https://drive.google.com/file/d/1IIFwPHTuMEb128KwXTox3vLznnvg4dPA/view"}
+            ]
+        },
+        {
+            "EP" : "ไหงคุณครูมาอยู่ที่นี้ได้ครับ เล่ม 05 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (JPEG)","Link" : "https://drive.google.com/file/d/1vdrAd0uQtJz1Hx85G0LqlzN5Td4Omy1O/view"}
+            ]
+        },
+        {
+            "EP" : "ไหงคุณครูมาอยู่ที่นี้ได้ครับ เล่ม 06 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (JPEG)","Link" : "https://drive.google.com/file/d/1ujJeLsENMhtY5-U5dSejVWz87vzOZQmI/view"}
+            ]
+        },
+        {
+            "EP" : "ไหงคุณครูมาอยู่ที่นี้ได้ครับ เล่ม 07 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (JPEG)","Link" : "https://drive.google.com/file/d/1ecgDewvzZVGDexIOXj_JzU9TFn5W0F1d/view"}
+            ]
+        },
+        {
+            "EP" : "ไหงคุณครูมาอยู่ที่นี้ได้ครับ เล่ม 08 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (JPEG)","Link" : "https://drive.google.com/file/d/1cO8-gM-Gv2yAfyGf9xo_h5dsl8DJkWwZ/view"}
+            ]
+        }
+    ],
+    "Description" : "นักเรียนชายที่มาเจออาจารย์สาวในสถานที่และสถานการณ์คาดไม่ถึงเป็นประจำ เหตุการณ์ของศิษย์-อาจารย์จะเปลี่ยนไปในแต่ละตอน",
+    "Picture" : "https://sv1.picz.in.th/images/2021/03/08/DS7QnV.jpg"
+}
