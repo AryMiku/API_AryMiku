@@ -1,0 +1,62 @@
+{
+    "Id" : 18,
+    "Type" : "Series",
+    "Name" : "The Mandalorian Season 2",
+    "Category" : "TV Series",
+    "Chapter" : "1 - 8",
+    "CheckChapter" : "END",
+    "Trans" : {"Trans" : "SiamBit", "Link" : "https://m.siambit.me/"},
+    "Story" : ["Action"],
+    "Download" : [
+        {
+            "EP" : "The Mandalorian Season 02 EP.1 Chapter 9: The Marshal",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/1NVyScjj7JF94CfSqHreVtcF6qrdcV71E/view"}
+            ]
+        },
+        {
+            "EP" : "The Mandalorian Season 02 EP.2 Chapter 10: The Passenger",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/1jBUYqw_ninOKX2o0MlPX_GHZ8g_P8aet/view"}
+            ]
+        },
+        {
+            "EP" : "The Mandalorian Season 02 EP.3 Chapter 11: The Heiress",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/1JHv-hhkwbgY6Qzndc72drOdaDjrlFyQU/view"}
+            ]
+        },
+        {
+            "EP" : "The Mandalorian Season 02 EP.4 Chapter 12: The Siege",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/1gRmD-SGGgthXuUe2JtSSd5mvM0XI9A-E/view"}
+            ]
+        },
+        {
+            "EP" : "The Mandalorian Season 02 EP.5 Chapter 13: The Jedi",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/1V6-9fQJSdHIST5_vORXbS77Yq8bIlEeo/view"}
+            ]
+        },
+        {
+            "EP" : "The Mandalorian Season 02 EP.6 Chapter 14: The Tragedy",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/1M_m0g83VNhSFveu0z04DLXzBOWiXmwdg/view"}
+            ]
+        },
+        {
+            "EP" : "The Mandalorian Season 02 EP.7 Chapter 15: The Believer",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/1AMnrDgD_V61CMGKnAQOe2QodUQBZjgTC/view"}
+            ]
+        },
+        {
+            "EP" : "The Mandalorian Season 02 EP.8 Chapter 16: The Rescue",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/1DD20l9h2nCy4CG_sW7vs7hTSL8OToMPq/view"}
+            ]
+        }
+    ],
+    "Description" : "หลังจากที่ได้เก็บเลี้ยงดูเผ่าพันธ์สีเขียวตัวเล็ก เขาก็พยายามจะหาที่อยู่ให้กับมันเพื่อที่จะให้มันปลอดภัยจากอันตรายอื่นๆ",
+    "Picture" : "https://sv1.picz.in.th/images/2021/01/10/lKrrBE.jpg"
+}

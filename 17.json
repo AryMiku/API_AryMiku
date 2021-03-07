@@ -1,0 +1,62 @@
+{
+    "Id" : 17,
+    "Type" : "Series",
+    "Name" : "The Mandalorian Season 1",
+    "Category" : "TV Series",
+    "Chapter" : "1 - 8",
+    "CheckChapter" : "END",
+    "Trans" : {"Trans" : "Anonymous", "Link" : ""},
+    "Story" : ["Action"],
+    "Download" : [
+        {
+            "EP" : "The Mandalorian Season 01 EP.01 Chapter 1:INTERNAL",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/1XLevXDaxBsj5bjziu_4kzE064u-LPY5J/view"}
+            ]
+        },
+        {
+            "EP" : "The Mandalorian Season 01 EP.02 Chapter 2:The Child",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/14c0DvaQpDpmyw3UpAb31BCMKF2MGtv0x/view"}
+            ]
+        },
+        {
+            "EP" : "The Mandalorian Season 01 EP.03 Chapter 3:The Sin",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/1JSMLl13oKjoA7XsYPfxaYfjqmUCqDSFf/view"}
+            ]
+        },
+        {
+            "EP" : "The Mandalorian Season 01 EP.04 Chapter 4:Sanctuary",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/1oNfSG_vW4mvt0o7IE3Wcmz8lDyAwAwxQ/view"}
+            ]
+        },
+        {
+            "EP" : "The Mandalorian Season 01 EP.05 Chapter 5:The Gunslinger",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/1wFBQK4NVZVs_MFVwh5xoo0TMQksTCEHm/view"}
+            ]
+        },
+        {
+            "EP" : "The Mandalorian Season 01 EP.06 Chapter 6:The Prisoner",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/1lQqhrb-8ya84NFfjYHJwoqRHXes-br0g/view"}
+            ]
+        },
+        {
+            "EP" : "The Mandalorian Season 01 EP.07 Chapter 7:The Reckoning",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/1R1oIhgV4DHOkNlqtrWhHwl6FC5AoQclw/view"}
+            ]
+        },
+        {
+            "EP" : "The Mandalorian Season 01 EP.08 Chapter 8:Redemption",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/1zrXOD7E2f9mlFX9TxdY1wDzmc8AuFTkQ/view"}
+            ]
+        }
+    ],
+    "Description" : "เนื้อเรื่องหลังจากที่ลุคและพรรคพวกได้จัดการเหล่าจักรวรรดิลงได้สำเร็จ นี้เป็นเนื้อเรื่องเสริมของตัวละครนักล่าค่าหัวที่ออกเดินทางใช้ชีวิตและชีวิตของเขาต้องเปลี่ยนไปหลังจากได้พบเจอกับบุคคลปริศนา",
+    "Picture" : "https://sv1.picz.in.th/images/2021/01/10/lK6D5u.jpg"
+}
