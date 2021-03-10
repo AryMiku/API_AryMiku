@@ -1,0 +1,92 @@
+{
+    "Id" : 15,
+    "Type" : "Anime SubThai",
+    "Name" : "Noragami Aragoto",
+    "Category" : "BD [1080P]",
+    "Chapter" : "1 - 13",
+    "CheckChapter" : "END",
+    "Trans" : {"Trans" : "vBaimaiphli", "Link" : "https://www.facebook.com/vBaimaiphli"},
+    "Story" : ["Comedy","Action","School"],
+    "Download" : [
+        {
+            "EP" : "Noragami Aragoto - 01 [BD]",
+            "Dowload" : [
+                {"Name" : "MP4","Link" : "https://drive.google.com/file/d/1DRNApCvEaj2lkhHML4u6zkCZmALJ-4lQ"}
+            ]
+        },
+        {
+            "EP" : "Noragami Aragoto - 02 [BD]",
+            "Dowload" : [
+                {"Name" : "MP4","Link" : "https://drive.google.com/file/d/1VxZKT3hAVHAeffELnUIlJfMq0VsVpUkm"}
+            ]
+        },
+        {
+            "EP" : "Noragami Aragoto - 03 [BD]",
+            "Dowload" : [
+                {"Name" : "MP4","Link" : "https://drive.google.com/file/d/1XjdEadiCZGeFLvG41MpYMlfnYC4BXJpA"}
+            ]
+        },
+        {
+            "EP" : "Noragami Aragoto - 04 [BD]",
+            "Dowload" : [
+                {"Name" : "MP4","Link" : "https://drive.google.com/file/d/1hDMsA90ZN7ib8mRLG50NpznvYgLDT6RM"}
+            ]
+        },
+        {
+            "EP" : "Noragami Aragoto - 05 [BD]",
+            "Dowload" : [
+                {"Name" : "MP4","Link" : "https://drive.google.com/file/d/1v1otKkPPP-obvXLsyIVAdfWyEEtZ9lK6"}
+            ]
+        },
+        {
+            "EP" : "Noragami Aragoto - 06 [BD]",
+            "Dowload" : [
+                {"Name" : "MP4","Link" : "https://drive.google.com/file/d/1W-_C1wfPL6DjeV7LMI-bI9XUiXW5awSp"}
+            ]
+        },
+        {
+            "EP" : "Noragami Aragoto - 07 [BD]",
+            "Dowload" : [
+                {"Name" : "MP4","Link" : "https://drive.google.com/file/d/1aC5xsJPQXjpumRVl8GtpL_d6pXlb9I_7"}
+            ]
+        },
+        {
+            "EP" : "Noragami Aragoto - 08 [BD]",
+            "Dowload" : [
+                {"Name" : "MP4","Link" : "https://drive.google.com/file/d/1y8DzS_dEuVaA8dsPr_RRz81J2vvb7A4A"}
+            ]
+        },
+        {
+            "EP" : "Noragami Aragoto - 09 [BD]",
+            "Dowload" : [
+                {"Name" : "MP4","Link" : "https://drive.google.com/file/d/1x9pW8psud6CwpSe0RZVAh11J7HCVKbpd"}
+            ]
+        },
+        {
+            "EP" : "Noragami Aragoto - 10 [BD]",
+            "Dowload" : [
+                {"Name" : "MP4","Link" : "https://drive.google.com/file/d/1kgr8u-ZSlVSqPEn-Vyc0lwKWX9LbIik3"}
+            ]
+        },
+        {
+            "EP" : "Noragami Aragoto - 11 [BD]",
+            "Dowload" : [
+                {"Name" : "MP4","Link" : "https://drive.google.com/file/d/1qL8wziHFOJOUbUZbYrYomMjA_AVNQTLB"}
+            ]
+        },
+        {
+            "EP" : "Noragami Aragoto - 12 [BD]",
+            "Dowload" : [
+                {"Name" : "MP4","Link" : "https://drive.google.com/file/d/1IxCUwFc1yUfHU0tQ5LVm_osve0GEW-qT"}
+            ]
+        },
+        {
+            "EP" : "Noragami Aragoto - 13 [BD]",
+            "Dowload" : [
+                {"Name" : "MP4","Link" : "https://drive.google.com/file/d/15n9IkFvmHYHMce9Kx171Wkq5wkYnHCS_"}
+            ]
+        }
+    ],
+    "Description" : "ภาคต่อของเทวดาขาจร ซึ่งในภาคนี้จะต้องสู้กับศัตรูที่เป็นคู่ปรับของเขาในอดีต และ ผจญภัยไปกับยมโลกอีกด้วย",
+    "Picture" : "https://sv1.picz.in.th/images/2020/12/14/jDEpCg.jpg"
+}
