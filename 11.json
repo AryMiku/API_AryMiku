@@ -1,0 +1,462 @@
+{
+        "Id" : 11,
+        "Type" : "Manhwa TH",
+        "Name" : "Sister Neighbors",
+        "Category" : "Manga",
+        "Chapter" : "1-54",
+        "CheckChapter" : "OnGoing",
+        "Trans" : {"Trans" : "นักแปล Hiroki", "Link" : "https://www.facebook.com/Hiroki.Translators"},
+        "Story" : ["Hentai","Drama","Love"],
+        "Download" : [
+            {
+                "EP" : "Sister Neighbors - 001",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : ""}
+                ],
+                "Status" : -1
+            },
+            {
+                "EP" : "Sister Neighbors - 002",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1cQ4Sb_X_FgLzI9AFi_EJqUIsXNiL4Kpg/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 003",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1ImFJKn8IJRLtm1wPxRL4Qwl3pLVBD_Sv/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 004",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1ItNxZsbgLxZOjdkDNogVqxz49EU0FE0r/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 005",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1Hm-jNPKSP1Oi7uBonhkuXbrr5cBEBNjn/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 006",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1KmvuqsoaTix4OwKi8ekAwTBqW0KgeR0o/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 007",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1AvhPzfrrx1zEK_6Rsiv6lrGrDCPVYNml/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 008",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/18aizORRDmkMWyLIHQmfeNvsdSO_Qdj6E/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 009",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1wJUOAtbJqQ0fol2vqQuq_cb387e2Z5Yl/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 010",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1265Dgi2ikugVjgKxBMdsREssST2xMeG9/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 011",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1pfjDOMR2qrJzKzfTwfCks0Ls0fJor7DI/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 012",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1YPNRaydBX_Lx0l8tqsDDS_G3jvP6b2fD/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 013",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1YZvksfBmp3EVCu1q96zaH1vlhMwKIA7s/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 014",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/14n8No5GTCyb5ylzYUlMvOUcqvuhVQSwU/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 015",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1qGP1FpRXCoxdh5UAXs7QXqhO7bbrSQn0/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 016",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1-r0vN_-VTff4ZG4t3fECKUsvFZj19DjW/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 017",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/14wdMJGFqiM8xNe5VmLPrBPZc_7xCaIvA/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 018",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/16sOy5LS2t7TGsMb6UTjDobKarZqteQ7K/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 019",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1miqB0gbf53829qLc7y623I4DXgWYWiJC/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 020",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1HF7xmF3Yr1fBtEJRGhnCEzLXM4KYxks0/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 021",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1g_BcBBXMe5yQ0cSOfy_uxfaw1c68EwPV/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 022",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1w7fV435QcouYWyjJDb89zO8ey0wcne_t/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 023",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/15hg9zevSm_u05qL57tNUkDarUpxq3o-P/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 024",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1a_m3AoWKnkLrcmgEjNt6oCax6PLQHrwG/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 025",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1Dt6zMzQaaOqhOZJ98pXmjTJWE0RTdcIM/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 026",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/12xVHoAkaf9zPI2lFP-AhfQknTs39K0JX/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 027",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1dKZDx15S34hFjVSeySL-CspDHD7dpE7P/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 028",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/15OhvUL06r59IVrNks_tqTBjL2xl9Zp5X/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 029",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1Ov-W9kzqBR8q74OMgRQkwBFhnPbV7ijf/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 030",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/13xBNxTYQVbkTbg0HQaHPVDOUTDnvyqhu/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 031",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1fHkPJMIekp3COScyw9kSplfjbCIuP9E_/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 032",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1UpsIRjUD_sRIThE8zihxzuYfiRroemnK/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 033",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1YTF-eMP4Ie04hd6rGnhW4KqtdhSePvSA/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 034",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1jXgXMmTxIx4oDz8LuqcRE-p54cb__Kcy/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 035",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1TsTf2G_HWgk1uKqg7Pb52ACq3hjEig44/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 036",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1z8mTS4-sBm4jDF0uAqrOwDZyRADiQCDq/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 037",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/16ALS0LT5EFm9SIzXte9av_Nhz9pj0FYw/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 038",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1oLQIEgS_0C82kn7BZU3FKh7UKh_IgJxA/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 039",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1Sl0w0YQQCmPgXwzHPSi9Ei0axuu7-nq9/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 040",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1s1Al1svJYJI7RjFPnjbNmBfKFrvnArkf/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 041",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1kc3awEzgVeRWh9iIy8IIw2Z41mFoqGaF/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 042",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1HOhOR1TB40vRsVuV3igd6rdgQk6alyUM/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 043",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1yXDYSq07MK9r9QxQQd3eZWb3MMNhijdR/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 044",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1NZPGEMjXYksc-nug0YFiFc8Y5C1FTPXK/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 045",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1fC9J7uCCNVR7I1ApOFoTF9AYcbYL_voY/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 046",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : ""}
+                ],
+                "Status" : -1
+            },
+            {
+                "EP" : "Sister Neighbors - 047",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1yNmUNKyNzjGDezT0Pa8JCrpW8UMQYJ8P/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 048",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1hbQbH4-lht0ij0I7eHo0CK9qzrejN6pv/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 049",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1N9a8QBFF7gliAJDdNW6qU_xEHp42GyBN/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 050",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/17DbGUflpd3KDMkgPLxc30kmn2XHC2kpB/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 051",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1oZuYXsxosUCIZp_ZhqwbQvQ_eBL1TH1u/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 052",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1KnDdr5AVMKHg5Z3KJgFDCurL3xYvXcI5/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 053",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1fGN0_tUQ9nSNDY8bEyLK_sXm7kQv3lS1/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 054",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1x8Rjvr78E5FX6T6xeCgjB2j4EjslQo5v/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 055",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1GaxQTGXzHPDKK_hh95gT0vf-Nmgg1Im1/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 056",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1M-2H6_hQqpV-CcWcNYVYo11cDzrsImPH/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 057",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1-6F8KRKgYWesImbTgZ8lXm0M6uRKjkAo/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 058",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/15m0Ze_aT9uvD-bR-DUfNNdM605gu-EEe/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 059",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1j9mrGFgANam52SPS5Jw9cDU3aQKmCnkE/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 060",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/18ys3zlk3UYeje1SfUrBtY-IrXK6TCXW7/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 061",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1EPZA8yKPUse33ek-N6erDNM1DVrQxS04/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 062",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1BdgaiGdMicfQBHPARtU2oQtPtNzva387/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 063",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/14isYDzCAPHMaTLsTz64QhInYbPWttjo9/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 064",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : ""}
+                ],
+                "Status" : -1
+            },
+            {
+                "EP" : "Sister Neighbors - 065",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : ""}
+                ],
+                "Status" : -1
+            },
+            {
+                "EP" : "Sister Neighbors - 066",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1wvmws2ZFRi0A2WslX2dC8K6jIYdXRyUT/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 067",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1AZIgiYRweL_EUbBneMoMp2DMVtHMPW4r/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 068",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/10Ki6_rIoJD3Fz8NMiy7aZVTbWO5Y5lat/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 069",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1lHeVQFFNrdj2K5wRx2clCQ7YLskeQ5zl/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 070",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1gSJQPDGuX14oaMVe5QJcwyB_E3PjTv7t/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 071",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1NCigJU5exVqXDBJyUSmCv6pziuVxHUR4/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 072",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1khqqdze9TFcwNiZqKQNsk6TYJcFwUrcz/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 073",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1l_cW-Lb2zUII8vHqc-a-Adk554Wafwq-/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 074",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1E3hFh8374XWo3fLzADzWWIU2caXvMmgz/view"}
+                ]
+            }
+        ],
+        "Description" : "เมื่อพระเอกนั้นรู้จักกับคนข้างบ้าน แต่ว่าสิ่งที่พระเอกอยากได้นั้นก็คือความที่เป็นมากกว่าเพื่อน",
+        "Picture" : "https://sv1.picz.in.th/images/2020/12/01/j3zNL8.jpg"
+    }

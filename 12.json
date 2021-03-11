@@ -1,0 +1,32 @@
+{
+    "Id" : 12,
+    "Type" : "Anime TH",
+    "Name" : "Yu-Gi-Oh SEVENS",
+    "Category" : "TV Version [720P]",
+    "Chapter" : "1-3",
+    "CheckChapter" : "OnGoing",
+    "Trans" : {"Trans" : "Yugioh Anime Update", "Link" : "https://www.facebook.com/groups/1578099032473966"},
+    "Story" : ["Card"],
+    "Download" : [
+        {
+            "EP" : "Yu-Gi-Oh SEVENS - 001",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://mega.nz/file/r1EHnC7Z#mYCBCWOPn_gUGstOKDqo41Hahlnz7eYnrS_z0B_hRkk"}
+            ]
+        },
+        {
+            "EP" : "Yu-Gi-Oh SEVENS - 002",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://mega.nz/file/ylkDVSrZ#6Ee9hKaF0fDB26QUmTj1QyHAf9c3oDXn2hn43z_ZRl8"}
+            ]
+        },
+        {
+            "EP" : "Yu-Gi-Oh SEVENS - 003",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://mega.nz/file/qk8z3CgR#lzkmCwDfyt3OF4KDcLTB69Chh-drDMOwcWOnlUTuy0c"}
+            ]
+        }
+    ],
+    "Description" : "เมื่อการดูเอลปกตินั้นมีความยุ่งยากมากเกินไป พระเอกของเรื่องจึงคิดค้นระบบการดูเอลแบบใหม่ขึ้นมา เพื่อให้ได้รับความสนุกมากขึ้น",
+    "Picture" : "https://sv1.picz.in.th/images/2020/12/05/jKsUCP.jpg"
+}
