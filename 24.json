@@ -1,0 +1,62 @@
+{
+    "Id" : 24,
+    "Type" : "Manga TH",
+    "Name" : "จอมมารต่างโลกกับบริวารสาวนักอัญเชิญ",
+    "Category" : "Manga",
+    "Chapter" : "01 - 08",
+    "CheckChapter" : "OnGoing",
+    "Trans" : {"Trans" : "Meb", "Link" : "https://www.mebmarket.com/index.php?action=search_book&type=all&search=%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%8D&page_no=1"},
+    "Story" : ["Hentai","Comedy","Love"],
+    "Download" : [
+        {
+            "EP" : "จอมมารต่างโลกกับบริวารสาวนักอัญเชิญ เล่ม 01 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (JPEG)","Link" : "https://drive.google.com/file/d/1IPsTQvssPFFvdEyyvkveGiAYAluykJyA/view"}
+            ]
+        },
+        {
+            "EP" : "จอมมารต่างโลกกับบริวารสาวนักอัญเชิญ เล่ม 02 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (JPEG)","Link" : "https://drive.google.com/file/d/1C2C4-C3AHswFHchno5bd4Dkmt8xXGP_L/view"}
+            ]
+        },
+        {
+            "EP" : "จอมมารต่างโลกกับบริวารสาวนักอัญเชิญ เล่ม 03 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (JPEG)","Link" : "https://drive.google.com/file/d/1Buq3MfFn4LIhIASt-M9MGdqviLTGR0FH/view"}
+            ]
+        },
+        {
+            "EP" : "จอมมารต่างโลกกับบริวารสาวนักอัญเชิญ เล่ม 04 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (JPEG)","Link" : "https://drive.google.com/file/d/1YkJLl6BNqLPHQ5WtY3fDgJ_c0QJ7cyWi/view"}
+            ]
+        },
+        {
+            "EP" : "จอมมารต่างโลกกับบริวารสาวนักอัญเชิญ เล่ม 05 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (JPEG)","Link" : "https://drive.google.com/file/d/1O3WgTW6AKdoMczoFbr6lHKdvPzkxkED8/view"}
+            ]
+        },
+        {
+            "EP" : "จอมมารต่างโลกกับบริวารสาวนักอัญเชิญ เล่ม 06 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (JPEG)","Link" : "https://drive.google.com/file/d/1NvR5Ly3GV9uPLCqngHl8B9eujg2j2JHF/view"}
+            ]
+        },
+        {
+            "EP" : "จอมมารต่างโลกกับบริวารสาวนักอัญเชิญ เล่ม 07 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (JPEG)","Link" : "https://drive.google.com/file/d/1IgiJXBK6bii0mVrbHeplU2Z3LU9ZFjFs/view"}
+            ]
+        },
+        {
+            "EP" : "จอมมารต่างโลกกับบริวารสาวนักอัญเชิญ เล่ม 08 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (JPEG)","Link" : "https://drive.google.com/file/d/1ExbQaXa2o1bRZPcYbOuCGADI3tvvyByW/view"}
+            ]
+        }
+    ],
+    "Description" : "ซากาโมโตะ ทาคุมะ ผู้เล่นที่มีฉายาว่า 'จอมมาร' ภายในเกม MMORPG ที่มีชื่อว่า Cross Reverie วันหนึ่ง เมื่อเขาตื่นนอนขึ้นมาเหมือนทุกทีเขาก็ได้พบกับสาวน้อย 2 คน ซึ่งต่างก็พูดว่า 'ฉันนี้แหละคือผู้อัญเชิญ' กับโลกที่เหมือนเกมที่เขาเล่นจนชินตาสรุปคือเขาถูกอัญเชิญไปสู่โลกต่างมิติในการสื่อสารเป็นศุนย์ต้องมารับบทเป็นจอมมาร และมีอาวุธเป็นพลังของจอมมารที่สร้างจากในเกม เรื่องราวการผจญภัยในต่างโลก ที่บุกทะลวงด้วยความแข็งแกร่งอันไร้เทียมทานได้เปิดฉากขึ้นแล้ว!!",
+    "Picture" : "https://sv1.picz.in.th/images/2021/03/13/DTD68e.png"
+}
