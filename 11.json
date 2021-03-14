@@ -3,7 +3,7 @@
         "Type" : "Manhwa TH",
         "Name" : "Sister Neighbors",
         "Category" : "Manga",
-        "Chapter" : "1-74",
+        "Chapter" : "1-75",
         "CheckChapter" : "OnGoing",
         "Trans" : {"Trans" : "นักแปล Hiroki", "Link" : "https://www.facebook.com/Hiroki.Translators"},
         "Story" : ["Hentai","Drama","Love"],
@@ -454,6 +454,12 @@
                 "EP" : "Sister Neighbors - 074",
                 "Dowload" : [
                     {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1E3hFh8374XWo3fLzADzWWIU2caXvMmgz/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 075",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1yd8IqN36sZKSvLawR1ZKAWEiC9zNBId2/view"}
                 ]
             }
         ],
