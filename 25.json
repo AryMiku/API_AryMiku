@@ -3,7 +3,7 @@
     "Type" : "Manga TH",
     "Name" : "Trinity Seven",
     "Category" : "Manga",
-    "Chapter" : "01 - 03",
+    "Chapter" : "01 - 04",
     "CheckChapter" : "OnGoing",
     "Trans" : {"Trans" : "Meb", "Link" : "https://www.mebmarket.com/index.php?action=search_book&type=all&search=%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%8B%E0%B9%80%E0%B8%A7%E0%B9%88%E0%B8%99%207&page_no=1"},
     "Story" : ["Hentai","Comedy","Love","Action"],
@@ -24,6 +24,12 @@
             "EP" : "Trinity Seven เล่ม 03 [TH]",
             "Dowload" : [
                 {"Name" : "RAR (PNG)","Link" : "https://drive.google.com/file/d/17yuencv9hMIu6LXXxohK_1mBO7FGLMT7/view"}
+            ]
+        },
+        {
+            "EP" : "Trinity Seven เล่ม 04 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (PNG)","Link" : "https://drive.google.com/file/d/1yIH3NX5haA0Bfg2ybaoh5nl8uBmJ4gXx/view"}
             ]
         }
     ],
