@@ -1,0 +1,44 @@
+{
+    "Id" : 29,
+    "Type" : "Manga TH",
+    "Name" : "Kumo desu ga, Nani ka แมงมุมแล้วไงข้องใจเหรอคะ",
+    "Category" : "Manga",
+    "Chapter" : "01 - 05",
+    "CheckChapter" : "OnGoing",
+    "Trans" : {"Trans" : "风辰", "Link" : "https://discord.gg/vCFeuEt"},
+    "Story" : ["School","Love","Action","Isekai"],
+    "Download" : [
+        {
+            "EP" : "Kumo desu ga, Nani ka แมงมุมแล้วไงข้องใจเหรอคะ - 01 [TH]",
+            "Dowload" : [
+                {"Name" : "GD","Link" : "https://drive.google.com/file/d/1RPk_latVGiWIbryxE6jPGvuveBd6WNlD/view"}
+            ]
+        },
+        {
+            "EP" : "Kumo desu ga, Nani ka แมงมุมแล้วไงข้องใจเหรอคะ - 02 [TH]",
+            "Dowload" : [
+                {"Name" : "GD","Link" : "https://drive.google.com/file/d/1LGbuMu34nlayORgQZiPGUkNlSR1ajqid/view"}
+            ]
+        },
+        {
+            "EP" : "Kumo desu ga, Nani ka แมงมุมแล้วไงข้องใจเหรอคะ - 03 [TH]",
+            "Dowload" : [
+                {"Name" : "GD","Link" : "https://drive.google.com/file/d/1IlRT8Xux1trkZjs3Y_lDgECN3b3MF9_H/view"}
+            ]
+        },
+        {
+            "EP" : "Kumo desu ga, Nani ka แมงมุมแล้วไงข้องใจเหรอคะ - 04 [TH]",
+            "Dowload" : [
+                {"Name" : "GD","Link" : "https://drive.google.com/file/d/1swgTRffp5pcy23iI5_Ptw6kcAeq_EKRP/view"}
+            ]
+        },
+        {
+            "EP" : "Kumo desu ga, Nani ka แมงมุมแล้วไงข้องใจเหรอคะ - 05 [TH]",
+            "Dowload" : [
+                {"Name" : "GD","Link" : "https://drive.google.com/file/d/1idJKukXp_DE-77HNnlRdqycTOvkZf_9e/view"}
+            ]
+        }
+    ],
+    "Description" : "สาวมัธยมปลายผู้เคราะห์ร้ายตายพร้อมกับเพื่อนร่วมห้องและครูประจำชั้น รวม 26 คน ทำให้เธอกลับชาติมาเกิดในร่างแมงมุมในต่างภพ ในเขาวงกตยักษ์เอลโรว์ เธอต้องหนีจากแมงมุมตัวแม่และพวกพ้องที่กัดกินกันเอง แล้วยังต้องพบกับมอนสเตอร์อีกหลายสายพันธุ์ ที่ทำให้การเดินทางของแมงมุมตัวจ๊อย อ่อนประสบการณ์ ไม่ราบรื่น แต่ปรับตัวได้อย่างรวดเร็วในโลกใหม่นี้",
+    "Picture" : "https://sv1.picz.in.th/images/2021/05/30/P6AMAg.jpg"
+}
