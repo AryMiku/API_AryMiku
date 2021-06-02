@@ -3,7 +3,7 @@
     "Type" : "Manga TH",
     "Name" : "Ochitekita Ryuuou to Horobiyuku Majo no Kuni ราชันตกสวรรค์กับดินแดนล่มสลาย",
     "Category" : "Manga",
-    "Chapter" : "01 - 01",
+    "Chapter" : "01 - 03",
     "CheckChapter" : "OnGoing",
     "Trans" : {"Trans" : "风辰", "Link" : "https://discord.gg/vCFeuEt"},
     "Story" : ["18+","Isekai","Hentai","Fantasy"],
@@ -19,8 +19,14 @@
             "Dowload" : [
                 {"Name" : "GD (RAR)","Link" : "https://drive.google.com/file/d/1Zo8Fz6rJ7xP0ZqqMnXEEUObAiJNw0Yrt/view"}
             ]
+        },
+        {
+            "EP" : "Ochitekita Ryuuou to Horobiyuku Majo no Kuni ราชันตกสวรรค์กับดินแดนล่มสลาย - 03 [TH]",
+            "Dowload" : [
+                {"Name" : "GD (RAR)","Link" : "https://drive.google.com/file/d/1RJHGH9DXsLs4z6SUwE1B_zDH8Mzi3G05/view"}
+            ]
         }
     ],
     "Description" : "ณ ป่าแห่งหนึ่งซึ่งมีแต่ เหล่าสตรีผู้ถูกเรียกว่า แม่มดอาศัยอยู่ พวกเธอต้องต่อสู้กับมนุษย์อยู่แทบจะตลอดเวลา พวกเธอหลบหนีพวกมนุษย์และถูกรุกรานจนเกือบจะล่มสลาย แต่ทว่าวันหนึ่ง วันที่อาจจะเรียกได้ว่าเป็นวันที่เปลี่ยนแปลงความเป็นไปทุกอย่างของโลก นั่นคือวันที่ชายผู้หนึ่งตกลงมาจากท้องฟ้ามาเจอ 'แม่มดแห่งป่าดำ'ฮาริแกน! เมื่ออัจฉริยะทางการรบกับเวทมนตร์ มาพบกัน เมื่อนั้นฟันเฟืองแห่งโชคชะตาจึงเริ่มหมุนกลับ! สงครามเหนือจินตนาการอันน่าหลงใหลได้เวลาเปิดฉากแล้ว!",
-    "Picture" : "https://sv1.picz.in.th/images/2021/06/01/PX3PCu.jpg"
+    "Picture" : "https://sv1.picz.in.th/images/2021/06/02/PpxMx9.jpg"
 }
