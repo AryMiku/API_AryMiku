@@ -1,32 +1,182 @@
 [
     {
-        "Id" : 1,
-        "Name" : "High School Of The Dead",
-        "Chapter" : "1 - 7",
-        "Type" : 1,
-        "FullType" : "Manga Full Color",
-        "Language" : "TH",
-        "Unit" : "Vol.",
-        "Status" : "OnGoing",
-        "AllChapter" : 7,
-        "FinishChapter" : 2,
-        "FileLost" : "ยังไม่มีไฟล์เสีย",
-        "LastDateEdited" : "23/06/2020",
-        "Description" : "กำลังแปลตอนนี้แปลถึงเล่มที่ 3 แล้ว"
+        "Name" : "Fate/stay night : Heaven's Feel",
+        "Suscess" : true,
+        "DowloadPage" : "heavenfeel.html",
+        "img" : "feel.jpg",
+        "Category" : "Anime",
+        "Type" : "The Movie / Blu-Ray",
+        "Episode" : "3/3"
     },
     {
-        "Id" : 2,
-        "Name" : "Fate/Stay Night : Heaven's Feel",
-        "Chapter" : "1 - 3",
-        "Type" : 2,
-        "FullType" : "Anime The Movie",
-        "Language" : "TH",
-        "Unit" : "Episode",
-        "Status" : "OnGoing",
-        "AllChapter" : 3,
-        "FinishChapter" : 2,
-        "FileLost" : "ยังไม่มีไฟล์เสีย",
-        "LastDateEdited" : "23/06/2020",
-        "Description" : "รอภาค 3 เข้าฉาย"
+        "Name" : "Hitman (Kouji Seo)",
+        "Suscess" : false,
+        "DowloadPage" : "hitman.html",
+        "img" : "Hitman.jpg",
+        "Category" : "Manga",
+        "Type" : "Series / PDF",
+        "Episode" : "18 / 127"
+    },
+    {
+        "Name" : "Brawling Go",
+        "Suscess" : true,
+        "DowloadPage" : "brawlinggo.html",
+        "img" : "Brawling.jpg",
+        "Category" : "Manhua",
+        "Type" : "Series",
+        "Episode" : "153 / 153"
+    },
+    {
+        "Name" : "The Secret 3P",
+        "Suscess" : true,
+        "DowloadPage" : "3P.html",
+        "img" : "3Pcover.jpg",
+        "Category" : "Manhua",
+        "Type" : "Series",
+        "Episode" : "18 / 18"
+    },
+    {
+        "Name" : "YU-GI-OH ARC-V",
+        "Suscess" : true,
+        "DowloadPage" : "yugioharcv.html",
+        "img" : "yugiarcv.jpg",
+        "Category" : "Anime",
+        "Type" : "Series",
+        "Episode" : "120 - 147"
+    },
+    {
+        "Name" : "Ijiranaide, Nagatoro-san",
+        "Suscess" : false,
+        "DowloadPage" : "nagatoro.html",
+        "img" : "nagatoro.jpg",
+        "Category" : "Manga",
+        "Type" : "Series",
+        "Episode" : "7 / ??"
+    },
+    {
+        "Name" : "Kamen Rider Zi-O",
+        "Suscess" : true,
+        "DowloadPage" : "zio.html",
+        "img" : "zi-o.png",
+        "Category" : "Live Action",
+        "Type" : "Series",
+        "Episode" : "45 - 49"
+    },
+    {
+        "Name" : "Hidden No Aria",
+        "Suscess" : false,
+        "DowloadPage" : "aria.html",
+        "img" : "Aria.jpg",
+        "Category" : "Manga",
+        "Type" : "Series",
+        "Episode" : "8 / ??"
+    },
+    {
+        "Name" : "Fate/Grand Order: Zettai Maju Sensen Babylonia",
+        "Suscess" : true,
+        "DowloadPage" : "fate_babi.html",
+        "img" : "fate_babi.jpg",
+        "Category" : "Anime",
+        "Type" : "OVA",
+        "Episode" : "1 / 1"
+    },
+    {
+        "Name" : "Sword Art Online Alicization",
+        "Suscess" : true,
+        "DowloadPage" : "sao.html",
+        "img" : "sao.jpg",
+        "Category" : "Anime",
+        "Type" : "Series",
+        "Episode" : "24 / 24"
+    },
+    {
+        "Name" : "Nozoki Ana",
+        "Suscess" : true,
+        "DowloadPage" : "ana.html",
+        "img" : "ana.jpg",
+        "Category" : "Anime",
+        "Type" : "OVA",
+        "Episode" : "1 / 1"
+    },
+    {
+        "Name" : "Azur Lane",
+        "Suscess" : false,
+        "DowloadPage" : "azurlane.html",
+        "img" : "AzurLane_banner.jpg",
+        "Category" : "Anime",
+        "Type" : "Series",
+        "Episode" : "4 / 12"
+    },
+    {
+        "Name" : "Kyochuu_Rettou",
+        "Suscess" : true,
+        "DowloadPage" : "kyochuu_rettou.html",
+        "img" : "Kyochuu_Rettou.jpg",
+        "Category" : "Anime",
+        "Type" : "The Movie",
+        "Episode" : "1 / 1"
+    },
+    {
+        "Name" : "Shadowverse",
+        "Suscess" : false,
+        "DowloadPage" : "shadowverse.html",
+        "img" : "shadowverse_banner.jpg",
+        "Category" : "Anime",
+        "Type" : "Series",
+        "Episode" : "1 / ??"
+    },
+    {
+        "Name" : "Kandagawa Jet Girls",
+        "Suscess" : true,
+        "DowloadPage" : "kandagawa.html",
+        "img" : "kandagawa_banner.jpg",
+        "Category" : "Anime",
+        "Type" : "Series",
+        "Episode" : "12 / 12"
+    },
+    {
+        "Name" : "Hada Camera",
+        "Suscess" : false,
+        "DowloadPage" : "hadacamera.html",
+        "img" : "Hada_cover.jpg",
+        "Category" : "Manga",
+        "Type" : "Series",
+        "Episode" : "49 / 81"
+    },
+    {
+        "Name" : "High School Of The Dead (Full Color)",
+        "Suscess" : false,
+        "DowloadPage" : "htod.html",
+        "img" : "highschoolofthedead.jpg",
+        "Category" : "Manga",
+        "Type" : "Series",
+        "Episode" : "4 / 7"
+    },
+    {
+        "Name" : "Nagatoro ComicAnthology (Manga)",
+        "Suscess" : false,
+        "DowloadPage" : "nagatoro_comicanthology.html",
+        "img" : "naga.jpg",
+        "Category" : "Manga",
+        "Type" : "One Shot",
+        "Episode" : "3 / ??"
+    },
+    {
+        "Name" : "Fuuka สายลมรักฤดูร้อน",
+        "Suscess" : true,
+        "DowloadPage" : "fuuka_anime.html",
+        "img" : "fuuka.jpg",
+        "Category" : "Anime",
+        "Type" : "Series / Blu-Ray",
+        "Episode" : "12 / 12"
+    },
+    {
+        "Name" : "Dogeza de Tanondemita",
+        "Suscess" : true,
+        "DowloadPage" : "Dogeza.html",
+        "img" : "Dogeza.jpg",
+        "Category" : "Anime",
+        "Type" : "Series / Blu-Ray",
+        "Episode" : "13 / 13"
     }
 ]
