@@ -3,9 +3,9 @@
     "Type" : "Anime SubThai",
     "Name" : "Hige o Soru. Soshite Joshikousei o Hirou โกนหนวดไปทํางานแล้วกลับมาพบเธอ",
     "Category" : "TV Version [1080P]",
-    "Chapter" : "01 - 05",
-    "CheckChapter" : "OnGoing",
-    "Trans" : {"Trans" : "Siscon Translator", "Link" : "https://www.facebook.com/SisconComplex/"},
+    "Chapter" : "01 - 13",
+    "CheckChapter" : "END",
+    "Trans" : {"Trans" : "Siscon UP !", "Link" : "https://www.facebook.com/SisconComplex/"},
     "Story" : ["Comedy","Love"],
     "Download" : [
         {
@@ -62,6 +62,41 @@
             "Dowload" : [
                 {"Name" : "MP4 (GD)","Link" : "https://drive.google.com/file/d/1xA2HulatDxqKQqQ5BMGvSRCDfeAiKIXz/view"},
                 {"Name" : "MP4 (MEGA)","Link" : "https://mega.nz/file/Il0E0DYJ#MchSyjhnt4sB1ZPHEzgizXUtwm9HmmxP8XE4wsxZhOo"}
+            ]
+        },
+        {
+            "EP" : "Hige o Soru. Soshite Joshikousei o Hirou โกนหนวดไปทํางานแล้วกลับมาพบเธอ - 09 [TH]",
+            "Dowload" : [
+                {"Name" : "MP4 (GD)","Link" : "https://drive.google.com/file/d/1T56Va3N67DPlDPtLfBXk0dF8Qr70qmhB/view"},
+                {"Name" : "MP4 (MEGA)","Link" : "https://mega.nz/file/NstVQCzJ#9AQEgGvRm8Ums34Wohc1juedj23zFHviKwMt-umvbWA"}
+            ]
+        },
+        {
+            "EP" : "Hige o Soru. Soshite Joshikousei o Hirou โกนหนวดไปทํางานแล้วกลับมาพบเธอ - 10 [TH]",
+            "Dowload" : [
+                {"Name" : "MP4 (GD)","Link" : "https://drive.google.com/file/d/12n-YpSh33WGuH_9XEKeugLvUV8v5gLyv/view"},
+                {"Name" : "MP4 (MEGA)","Link" : "https://mega.nz/file/gp1nGSqZ#ALYfqEAq2a5tK85ei4KGjTH2UcjzCUckPE4dFmWzM68"}
+            ]
+        },
+        {
+            "EP" : "Hige o Soru. Soshite Joshikousei o Hirou โกนหนวดไปทํางานแล้วกลับมาพบเธอ - 11 [TH]",
+            "Dowload" : [
+                {"Name" : "MP4 (GD)","Link" : "https://drive.google.com/file/d/1wES_hIVCJ0G7EeZagkskew14qHy2y-5v/view"},
+                {"Name" : "MP4 (MEGA)","Link" : "https://mega.nz/file/Y8tUjSSQ#j-9yzWAYo3unBAlh4p04MGprDxieUFqPyawtfZGyh54"}
+            ]
+        },
+        {
+            "EP" : "Hige o Soru. Soshite Joshikousei o Hirou โกนหนวดไปทํางานแล้วกลับมาพบเธอ - 12 [TH]",
+            "Dowload" : [
+                {"Name" : "MP4 (GD)","Link" : "https://drive.google.com/file/d/19-BNkQ-bMYqHq4RkylfdFEVXrt_KaeW4/view"},
+                {"Name" : "MP4 (MEGA)","Link" : "https://mega.nz/file/pxkkmLRZ#Y3D2N-LCx32Lm3ztyylky6Zrbxp5ME-T6xBKaNdSWxg"}
+            ]
+        },
+        {
+            "EP" : "Hige o Soru. Soshite Joshikousei o Hirou โกนหนวดไปทํางานแล้วกลับมาพบเธอ - 13 [TH][END]",
+            "Dowload" : [
+                {"Name" : "MP4 (GD)","Link" : "https://drive.google.com/file/d/1Gr2KQ8AwUFzMFO_Fo7A6iZKFWfRXDmS1/view"},
+                {"Name" : "MP4 (MEGA)","Link" : "https://mega.nz/file/IlUHyIrD#uv2XpITUn3htz7RHrSag4AhL9j1IgBM0f4u9XKKfIwA"}
             ]
         }
     ],
