@@ -690,6 +690,20 @@
         "Description" : " มิสุมิ มาโคโตะ หนุ่มมัธยมในญี่ปุ่นที่มีสายเลือดพ่อแม่เป็นชาวต่าวโลก ถูกหนึ่งในสามเทพ สึคุโยมิ เทพแห่งดวงจันทร์ อัญเชิญกลับโลกแฟนตาซีในฐานะผู้กล้า แต่เมื่อส่งให้เทพธิดาที่ดูแลผู้กล้าจากต่างโลกรับช่วงต่อ เธอกลับไม่พอใจหน้าตาเขาที่มองว่าอัปลักษณ์ ทำลายสายตา จึงไม่ให้เป็นผู้กล้า แล้วส่งให้ไปอยู่ที่สุดขอบโลกในดินแดนของเหล่าอมนุษย์ที่ไร้ผู้คน ได้พบ โทโมเอะ (ชิน) สัตว์ประหลาดมังกรที่ชอบละครย้อนยุคญี่ปุ่น มิโอะ แมงมุมยักษ์โรคจิตสายมาโซ การเรื่องราวการผจญภัยที่ชวนปวดหัวจึงได้เริ่มขึ้น",
         "Picture" : "https://sv1.picz.in.th/images/2021/10/09/uzNrLQ.jpg",
         "Suscess" : true
+    },
+    {
+        "Id" : 35,
+        "Type" : "Anime SubThai",
+        "Name" : "Tensei shitara Slime Datta Ken 2nd Season",
+        "Category" : "TV Version [1080P]",
+        "Chapter" : "01 - 24",
+        "CheckChapter" : "END",
+        "Trans" : {"Trans" : "Otaku-Fs", "Link" : "https://www.facebook.com/newotakufansub"},
+        "Story" : ["Action","Fighting","Slime","AnotherWorld"],
+        "Download" : "35.json",
+        "Description" : " ภาคที่สองของ Tensei Shitara Slime Datta Ken 2 ตอนนี้ Rimiru Tempest Alliance กำลังเติบโตขึ้นไปอีกตอนนี้พวกเขาจะได้พบกับอาณาจักรสัตว์แห่ง Eurazania การรวมตัวกับ King Gazel ความตึงเครียดที่เพิ่มขึ้นระหว่างสัตว์ประหลาดและมนุษย์และ Rimuru เผชิญหน้ากับศัตรูที่แข็งแกร่งที่สุดที่เขาเคยเผชิญ",
+        "Picture" : "https://sv1.picz.in.th/images/2021/10/13/u3hvog.jpg",
+        "Suscess" : true
     }
     
 ]
