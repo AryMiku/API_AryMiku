@@ -704,6 +704,20 @@
         "Description" : " ภาคที่สองของ Tensei Shitara Slime Datta Ken 2 ตอนนี้ Rimiru Tempest Alliance กำลังเติบโตขึ้นไปอีกตอนนี้พวกเขาจะได้พบกับอาณาจักรสัตว์แห่ง Eurazania การรวมตัวกับ King Gazel ความตึงเครียดที่เพิ่มขึ้นระหว่างสัตว์ประหลาดและมนุษย์และ Rimuru เผชิญหน้ากับศัตรูที่แข็งแกร่งที่สุดที่เขาเคยเผชิญ",
         "Picture" : "https://sv1.picz.in.th/images/2021/10/13/u3hvog.jpg",
         "Suscess" : true
+    },
+    {
+        "Id" : 36,
+        "Type" : "Anime SubThai",
+        "Name" : "Seirei Gensouki (ตำนานวิญญาณแฟนซี)",
+        "Category" : "TV Version [1080P]",
+        "Chapter" : "01 - 12",
+        "CheckChapter" : "END",
+        "Trans" : {"Trans" : "AL", "Link" : "https://discord.gg/ryKVxXggsg"},
+        "Story" : ["Action","Fighting","AnotherWorld"],
+        "Download" : "36.json",
+        "Description" : " หลังเกิดอุบัติเหตุทางรถ ฮารุโตะ ได้มาสิงร่างของ ริโอะ หนุ่มสลัมในต่างโลก ชีวิตได้พลิกผันได้ช่วยเจ้าหญิงและทำให้เขาเข้าเรียนในโรงเรียนของชนชั้นสูง",
+        "Picture" : "https://sv1.picz.in.th/images/2021/10/13/u3hvog.jpg",
+        "Suscess" : true
     }
     
 ]
