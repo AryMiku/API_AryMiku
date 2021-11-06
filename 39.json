@@ -1,0 +1,41 @@
+{
+    "Id" : 39,
+    "Type" : "Anime SubThai",
+    "Name" : "Meikyuu Black Company",
+    "Category" : "Anime",
+    "Chapter" : "1-3",
+    "CheckChapter" : "OnGoing",
+    "Trans" : {"Trans" : "Nemuria-Fansub", "Link" : "https://www.facebook.com/NeMuRiaPresent"},
+    "Story" : ["AnotherWorld","Isekai","13+"],
+    "Download" : [
+        {
+            "EP" : "Meikyuu Black Company - 01 [TH]",
+            "Dowload" : [
+                {"Name" : "MP4 (720P)(G-Drive)","Link" : "https://drive.google.com/file/d/1vEBEcbl3nXTawWfjIpr4k7wOm-Vu7MGv/view"},
+                {"Name" : "MP4 (720P)(MEGA)","Link" : "https://mega.nz/file/oHYTWQDY#iIP9RMxRtMNzUQjNzx6SfQmWsk3mvaEOn6Rat6SvdO0"},
+                {"Name" : "MP4 (1080P)(G-Drive)","Link" : "https://drive.google.com/file/d/1NohhcbKasnK5CrypLGEvgd7D2yC_MZ3t/view"},
+                {"Name" : "MP4 (1080P)(MEGA)","Link" : "https://mega.nz/file/NKIX0IpK#TdzZjAbRqNwOjEJFese4AInncqAird0k2FZFgAJWtVA"}
+            ]
+        },
+        {
+            "EP" : "Meikyuu Black Company - 02 [TH]",
+            "Dowload" : [
+                {"Name" : "MP4 (720P)(G-Drive)","Link" : "https://drive.google.com/file/d/1bVrOkEcK3U1OdVOQeI1p2Ifx7TFovgho/view"},
+                {"Name" : "MP4 (720P)(MEGA)","Link" : "https://mega.nz/file/MCxSRLaR#O5y0eVUuvsGppKj6-MFk3xiEYp4CM7jUs46-l4OE3Mg"},
+                {"Name" : "MP4 (1080P)(G-Drive)","Link" : "https://drive.google.com/file/d/1nH3QKc7eV0CnXSbHPh_lSqVSd8lcktsX/view"},
+                {"Name" : "MP4 (1080P)(MEGA)","Link" : "https://mega.nz/file/Vf5E2LrZ#oGJXIkKGg3v5xNK1YKb09frpkweQlQz6iewhkEVokkg"}
+            ]
+        },
+        {
+            "EP" : "Meikyuu Black Company - 03 [TH]",
+            "Dowload" : [
+                {"Name" : "MP4 (720P)(G-Drive)","Link" : "https://drive.google.com/file/d/1uB5AxfCDXG-IrcaYNYpOLs_HNLonbv4X/view"},
+                {"Name" : "MP4 (720P)(MEGA)","Link" : "https://mega.nz/file/YGokBABa#p5E4TBPF8rc7PTj5ukPP78Ee5rAz5CLHf_VWYz5dXEA"},
+                {"Name" : "MP4 (1080P)(G-Drive)","Link" : "https://drive.google.com/file/d/1C0scHWGUHeMRvk6apFRh8dzvnJZQ6Q2j/view"},
+                {"Name" : "MP4 (1080P)(MEGA)","Link" : "https://mega.nz/file/Jaxm1Axa#sSmDRlYqPLpgYDhIbAUdlxHESnlaCTCPT_XdJO4by5M"}
+            ]
+        }
+    ],
+    "Description" : "คินจิ หนุ่มวัย 24 ปี ที่วางแผนชีวิตอยู่แบบ NEET ไปจนตายจากการลงทุน แต่กลับถูกส่งไปต่างโลก กลายเป็นทาส และต้องการหาเงินกลับมารวยอีกครั้ง",
+    "Picture" : "https://sv1.picz.in.th/images/2021/11/06/uHlBNZ.jpg"
+}

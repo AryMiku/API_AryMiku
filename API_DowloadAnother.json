@@ -746,6 +746,20 @@
         "Description" : "พระเอกผู้สูญเสียพ่อไป แล้วอยู่กับแม่เพียงลำพัง แต่ว่าคนข้างบ้านนั้นกลับมีท่าทางประหลาดๆกับแม่ ซึ่งพอความจริงปรากฏก็ทำให้พระเอกช็อกไปเลย",
         "Picture" : "https://sv1.picz.in.th/images/2021/11/01/usJX9t.jpg",
         "Suscess" : false
+    },
+    {
+        "Id" : 39,
+        "Type" : "Anime SubThai",
+        "Name" : "Meikyuu Black Company",
+        "Category" : "Anime",
+        "Chapter" : "1-3",
+        "CheckChapter" : "OnGoing",
+        "Trans" : {"Trans" : "Nemuria-Fansub", "Link" : "https://www.facebook.com/NeMuRiaPresent"},
+        "Story" : ["AnotherWorld","Isekai","13+"],
+        "Download" : "39.json",
+        "Description" : "คินจิ หนุ่มวัย 24 ปี ที่วางแผนชีวิตอยู่แบบ NEET ไปจนตายจากการลงทุน แต่กลับถูกส่งไปต่างโลก กลายเป็นทาส และต้องการหาเงินกลับมารวยอีกครั้ง",
+        "Picture" : "https://sv1.picz.in.th/images/2021/11/06/uHlBNZ.jpg",
+        "Suscess" : false
     }
     
 ]
