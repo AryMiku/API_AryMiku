@@ -760,6 +760,34 @@
         "Description" : "คินจิ หนุ่มวัย 24 ปี ที่วางแผนชีวิตอยู่แบบ NEET ไปจนตายจากการลงทุน แต่กลับถูกส่งไปต่างโลก กลายเป็นทาส และต้องการหาเงินกลับมารวยอีกครั้ง",
         "Picture" : "https://sv1.picz.in.th/images/2021/11/06/uHlBNZ.jpg",
         "Suscess" : true
+    },
+    {
+        "Id" : 40,
+        "Type" : "Anime SubThai",
+        "Name" : "To Love Ru Darkness 2nd",
+        "Category" : "Anime",
+        "Chapter" : "1-6",
+        "CheckChapter" : "OnGoing",
+        "Trans" : {"Trans" : "Mayuki-Fansub", "Link" : "https://www.facebook.com/MayukiFANSUB"},
+        "Story" : ["Hentai","Commady","18+"],
+        "Download" : "40.json",
+        "Description" : "เรื่องราวฮาเร็ม สานต่อจากจุดเริ่มต้นเดิม (ตั้งแต่หลายๆ ภาคก่อน) เมื่อจักรวาลอันกว้างใหญ่ นำพาให้ “ลาล่า ซาตาริน เดวิลุค” เจ้าหญิงแห่งดาวเดวิล ลุต อันไกลโพ้น ได้มาพบกับ “ยูกิ ริโตะ” เด็กหนุ่ม ม.ปลาย แสนธรรมดา จอมซุ่มมซ่าม ซึ่งมี “ไซเร็นจิ ฮารูนะ” เป็นเพื่อนสาวที่แอบชอบอยู่ก่อนแล้ว แต่ไหงระหว่างที่เขากำลังจะสารภาพกับเธอ ความเข้าใจผิดไม่คาดคิดดันเกิดขึ้น! เมื่อแม่สาวลาล่าดันโผล่มาซะงั้น แถมยังเหมาให้หนุ่มจอมซุ่มซ่ามเป็นคู่หมั้นของเธอซะได้ ความอลวนวุ่นวายของมนุษย์โลกและเหล่าสาวต่างดาวที่ค่อยๆ ขนขบวนกันมายังโลกจึงเริ่มต้นขึ้น…",
+        "Picture" : "https://sv1.picz.in.th/images/2021/11/28/6ZTPNt.jpg",
+        "Suscess" : false
+    },
+    {
+        "Id" : 41,
+        "Type" : "Anime SubThai",
+        "Name" : "Goblin Slayer The Movie - Goblin's Crown",
+        "Category" : "Anime",
+        "Chapter" : "1",
+        "CheckChapter" : "END",
+        "Trans" : {"Trans" : "NatiSEELER FS", "Link" : "https://www.facebook.com/NatiSEELERadd"},
+        "Story" : ["Avenger","Slayer","18+"],
+        "Download" : "41.json",
+        "Description" : "ก็อบลินสเลเยอร์เดอะมูฟวี่กับภารกิจถล่มป้อมปราการก็อบลิน, ตัวละครใหม่, แมฟใหม่, บอสใหม่...  ",
+        "Picture" : "https://sv1.picz.in.th/images/2021/11/28/6ZKJh9.jpg",
+        "Suscess" : true
     }
     
 ]
