@@ -3,8 +3,8 @@
     "Type" : "Manhwa TH",
     "Name" : "Two Household",
     "Category" : "Manga",
-    "Chapter" : "1-34",
-    "CheckChapter" : "OnGoing",
+    "Chapter" : "1-41",
+    "CheckChapter" : "END",
     "Trans" : {"Trans" : "ไก่กรู๊ก", "Link" : "https://www.facebook.com/chickengrook"},
     "Story" : ["Hentai","Drama","Love"],
     "Download" : [
@@ -214,6 +214,24 @@
         },
         {
             "EP" : "Two Household - 038 [TH]",
+            "Dowload" : [
+                {"Name" : "PDF","Link" : "https://drive.google.com/drive/folders/1W-mKBCgDlXxEqWmAZ5LMFDUxcEIG6ocX"}
+            ]
+        },
+        {
+            "EP" : "Two Household - 039 [TH]",
+            "Dowload" : [
+                {"Name" : "PDF","Link" : "https://drive.google.com/drive/folders/1W-mKBCgDlXxEqWmAZ5LMFDUxcEIG6ocX"}
+            ]
+        },
+        {
+            "EP" : "Two Household - 040 [TH]",
+            "Dowload" : [
+                {"Name" : "PDF","Link" : "https://drive.google.com/drive/folders/1W-mKBCgDlXxEqWmAZ5LMFDUxcEIG6ocX"}
+            ]
+        },
+        {
+            "EP" : "Two Household - 041 [TH][ตอนพิเศษ]",
             "Dowload" : [
                 {"Name" : "PDF","Link" : "https://drive.google.com/drive/folders/1W-mKBCgDlXxEqWmAZ5LMFDUxcEIG6ocX"}
             ]

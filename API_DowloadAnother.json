@@ -738,14 +738,14 @@
         "Type" : "Manhwa TH",
         "Name" : "Two Household",
         "Category" : "Manga",
-        "Chapter" : "1-38",
-        "CheckChapter" : "OnGoing",
+        "Chapter" : "1-41",
+        "CheckChapter" : "END",
         "Trans" : {"Trans" : "ไก่กรู๊ก", "Link" : "https://www.facebook.com/chickengrook"},
         "Story" : ["Hentai","Drama","Love"],
         "Download" : "38.json",
         "Description" : "พระเอกผู้สูญเสียพ่อไป แล้วอยู่กับแม่เพียงลำพัง แต่ว่าคนข้างบ้านนั้นกลับมีท่าทางประหลาดๆกับแม่ ซึ่งพอความจริงปรากฏก็ทำให้พระเอกช็อกไปเลย",
         "Picture" : "https://sv1.picz.in.th/images/2021/11/01/usJX9t.jpg",
-        "Suscess" : false
+        "Suscess" : true
     },
     {
         "Id" : 39,
