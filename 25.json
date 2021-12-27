@@ -3,7 +3,7 @@
     "Type" : "Manga TH",
     "Name" : "Trinity Seven",
     "Category" : "Manga",
-    "Chapter" : "01 - 16",
+    "Chapter" : "01 - 18",
     "CheckChapter" : "OnGoing",
     "Trans" : {"Trans" : "Meb", "Link" : "https://www.mebmarket.com/index.php?action=search_book&type=all&search=%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%8B%E0%B9%80%E0%B8%A7%E0%B9%88%E0%B8%99%207&page_no=1"},
     "Story" : ["Hentai","Comedy","Love","Action"],
@@ -124,6 +124,20 @@
             "EP" : "Trinity Seven เล่ม 16 [TH]",
             "Dowload" : [
                 {"Name" : "RAR (PNG)","Link" : "https://drive.google.com/file/d/1d2Eh8z3Iym_MIliby7xK9zRvZUjDpwQ6/view"},
+                {"Name" : "PDF (Real)","Link" : "https://www.mediafire.com/folder/7gxkc1xk07yd4/Trinity_Seven_%5BTH%5D%5BSiambit%5D"}
+            ]
+        },
+        {
+            "EP" : "Trinity Seven เล่ม 17 [TH]",
+            "Dowload" : [
+                {"Name" : "RAR (PNG)","Link" : "https://drive.google.com/file/d/1eJbbZdEWX84SpMdS_NwT5eioLK1sQNE0/view"},
+                {"Name" : "PDF (Real)","Link" : "https://www.mediafire.com/folder/7gxkc1xk07yd4/Trinity_Seven_%5BTH%5D%5BSiambit%5D"}
+            ]
+        },
+        {
+            "EP" : "Trinity Seven เล่ม 18 [TH][UNCEN]",
+            "Dowload" : [
+                {"Name" : "RAR (PNG)","Link" : "https://drive.google.com/file/d/1gHFa0ahFPDWJYdCtPezN8kzBMZLy28ER/view"},
                 {"Name" : "PDF (Real)","Link" : "https://www.mediafire.com/folder/7gxkc1xk07yd4/Trinity_Seven_%5BTH%5D%5BSiambit%5D"}
             ]
         }

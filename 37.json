@@ -1,0 +1,20 @@
+{
+    "Id" : 37,
+    "Type" : "Anime SubThai",
+    "Name" : "Wotaku ni Koi wa Muzukashii (ยากแท้จริงหนอรักของโอตาคุ)",
+    "Category" : "TV Version [1080P]",
+    "Chapter" : "OVA",
+    "CheckChapter" : "END",
+    "Trans" : {"Trans" : "Aileen Sub", "Link" : "https://www.facebook.com/Aileen.Sub/"},
+    "Story" : ["Love","Comady"],
+    "Download" : [
+        {
+            "EP" : "Wotaku ni Koi wa Muzukashii  OVA3",
+            "Dowload" : [
+                {"Name" : "MP4","Link" : "https://drive.google.com/file/d/1Bbq5aYMndHWZrIz_7ABc_NWe1vpoqOa7/view"}
+            ]
+        }
+    ],
+    "Description" : "เมื่อนารุมิ พนักงานบริษัทสาวซึ่งซ่อนความจริงที่ว่าเธอเป็นแฟนเกิร์ลยาโออิเปลี่ยนงาน เธอกลับมาพบฮิโรทากะ เพื่อนวัยเด็กที่น่าดึงดูดและมีความสามารถ แต่เป็นโอตาคุติดเกมอีกครั้ง พวกเขาตัดสินใจเริ่มเดตกัน แต่เพราะการเป็นโอตาคุ ทำให้ทั้งสองอึดอัด การคบกันอย่างจริงจังจึงเป็นเรื่องยากสำหรับพวกเขา",
+    "Picture" : "https://sv1.picz.in.th/images/2021/11/02/usyN0v.jpg"
+}
