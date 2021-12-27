@@ -7,7 +7,87 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <table border="1">
+        <tr>
+            <td>Id</td>
+            <td><input type="text" disabled></td>
+        </tr>
+        <tr>
+            <td>Type</td>
+            <td>
+                <select name="Type" id="Type" >
+                    <option value="Anime SubThai">Anime SubThai</option>
+                    <option value="Manga TH">Manga TH</option>
+                    <option value="Manhwa TH">Manhwa TH</option>
+                    <option value="Anime Thai">Anime Thai</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td>Category</td>
+            <td>
+                <select name="Category" id="Category" >
+                    <option value="BD [1080P]">BD [1080P]</option>
+                    <option value="Manga">Manga</option>
+                    <option value="TV Version [1080P]">TV Version [1080P]</option>
+                    <option value="TV Version [720P]">TV Version [720P]</option>
+                    <option value="TV Series">TV Series</option>
+                    <option value="Anime">Anime</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Chapter</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td>Check Chapter</td>
+            <td>
+                <select name="Category" id="Category" >
+                    <option value="OnGoing">OnGoing</option>
+                    <option value="END">END</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Trans Name</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td>Trans Link</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td>Story</td>
+            <td>
+                <input type="checkbox" id="Hentai" name="Hentai" value="Hentai">
+                <label for="Hentai"> Hentai</label>
+                <input type="checkbox" id="Commady" name="Commady" value="Commady">
+                <label for="Commady"> Commady</label><br>
+                <input type="checkbox" id="15" name="15" value="15+">
+                <label for="15"> 15+</label>
+                <input type="checkbox" id="18" name="18" value="18+">
+                <label for="18"> 18+</label>
+            </td>
+        </tr>
+        <tr>
+            <td>Dowload</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td>Picture</td>
+            <td><input type="text"></td>
+        </tr>
+    </table>
+    <button>Send Data</button>
 </body>
 </html>
 
@@ -30,6 +110,8 @@
         EP : null,
         Dowload : {Name : null,Link : null}
     }
+
+    console.log(model)
 
     //load json
 
