@@ -788,6 +788,28 @@
         "Description" : "ก็อบลินสเลเยอร์เดอะมูฟวี่กับภารกิจถล่มป้อมปราการก็อบลิน, ตัวละครใหม่, แมฟใหม่, บอสใหม่...  ",
         "Picture" : "https://sv1.picz.in.th/images/2021/11/28/6ZKJh9.jpg",
         "Suscess" : true
-    }
+    },
+    {
+        "Id": 42,
+        "Type": "Anime SubThai",
+        "Name": "Shin no Nakama ja Nai to Yuusha no Party o Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita",
+        "Category": "TV Version [1080P]",
+        "Chapter": "1 - 13",
+        "CheckChapter": "END",
+        "Trans": {
+          "Trans": "AL",
+          "Link": "https://discord.gg/ryKVxXggsg"
+        },
+        "Story": [
+          "Commady",
+          "15+",
+          "Commady",
+          "15+"
+        ],
+        "Download": "41.json",
+        "Description": "ในโลกที่มนุษย์เกิดมาพร้อม “พร” ที่แตกต่างกัน ถูกกำหนดสายอาชีพตั้งแต่เกิด เรด อดีตผู้นำที่สร้างทีมสู้กองทัพปีศาจ ทุ่มเทฝึกฝนแม้จะไม่มี พรที่ดีแบบคนอื่น ได้รับการยอมรับในทีม แต่ถูกนักปราชญ์ขอให้ออกจากกลุ่ม ด้วยเหตุผลที่เขามี พร ที่ไร้ประโยชน์สำหรับทีม ต่างจาก ลูตี้ น้องสาวเขาที่มีพลังของผู้กล้า เรด จึงไปเริ่มชีวิตอย่างสงบในชายแดนที่ห่างไกล ได้เปิดร้านขายยาและใช้ชีวิตสบายๆ ที่นั่น อย่างไรก็ตาม กลุ่มผู้กล้าเริ่มเกิดความแตกแยกและพบความลำบาก ทำให้มีปัญหาหลายอย่างตามมา",
+        "Picture": "https://sv1.picz.in.th/images/2021/12/31/nSCi70.jpg",
+        "Suscess" : true
+      }
     
 ]

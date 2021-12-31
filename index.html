@@ -6,11 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<style>
+    .textred{
+        color: red;
+    }
+</style>
 <body>
+
+    <button onclick="FileModel()" id="AllDrive">File</button> <button onclick="MyDriveModel()" id="MyDrive">MyDrive</button>
+
+    <!-- Main Zone -->
+
     <table border="1">
         <tr>
             <td>Id</td>
-            <td><input type="text" disabled></td>
+            <td><input type="text"></td>
         </tr>
         <tr>
             <td>Type</td>
@@ -20,12 +30,13 @@
                     <option value="Manga TH">Manga TH</option>
                     <option value="Manhwa TH">Manhwa TH</option>
                     <option value="Anime Thai">Anime Thai</option>
+                    <option value="Movie">Movie</option>
                 </select>
             </td>
         </tr>
         <tr>
             <td>Name</td>
-            <td><input type="text"></td>
+            <td><input type="text" id="Name"></td>
         </tr>
         <tr>
             <td>Category</td>
@@ -37,17 +48,18 @@
                     <option value="TV Version [720P]">TV Version [720P]</option>
                     <option value="TV Series">TV Series</option>
                     <option value="Anime">Anime</option>
+                    <option value="Movies">Movies</option>
                 </select>
             </td>
         </tr>
         <tr>
             <td>Chapter</td>
-            <td><input type="text"></td>
+            <td><input type="text" id="Chapter"></td>
         </tr>
         <tr>
             <td>Check Chapter</td>
             <td>
-                <select name="Category" id="Category" >
+                <select name="CheckChapter" id="CheckChapter" >
                     <option value="OnGoing">OnGoing</option>
                     <option value="END">END</option>
                 </select>
@@ -55,11 +67,11 @@
         </tr>
         <tr>
             <td>Trans Name</td>
-            <td><input type="text"></td>
+            <td><input type="text" id="TransName"></td>
         </tr>
         <tr>
             <td>Trans Link</td>
-            <td><input type="text"></td>
+            <td><input type="text" id="TransLink"></td>
         </tr>
         <tr>
             <td>Story</td>
@@ -76,23 +88,115 @@
         </tr>
         <tr>
             <td>Dowload</td>
-            <td><input type="text"></td>
+            <td><input type="text" id=Dowload></td>
         </tr>
         <tr>
             <td>Description</td>
-            <td><input type="text"></td>
+            <td><input type="text" id="Description"></td>
         </tr>
         <tr>
             <td>Picture</td>
+            <td><input type="text" id="Picture"></td>
+        </tr>
+        <tr>
+            <td>Suscess</td>
+            <td>
+                <input type="radio" id="Suscess1" name="Suscess1" value="true" checked>
+                <label for="Suscess1">true</label>
+                <input type="radio" id="Suscess2" name="Suscess1" value="false">
+                <label for="Suscess1">false</label>
+            </td>
+        </tr>
+        <tr>
+            <td>Group</td>
+            <td><input type="text" id="Group"></td>
+        </tr>
+        <tr>
+            <td>Year</td>
+            <td><input type="text" id="Year"></td>
+        </tr>
+        <tr>
+            <td>Sound</td>
+            <td>
+                <input type="checkbox" id="Sound_English" name="Sound_English" value="English">
+                <label for="English"> English</label>
+                <input type="checkbox" id="Sound_Thai" name="Sound_Thai" value="Thai">
+                <label for="Thai"> Thai</label>
+                <input type="checkbox" id="Sound_Japan" name="Sound_Japan" value="Japan">
+                <label for="Japan"> Japan</label>
+            </td>
+        </tr>
+        <tr>
+            <td>Sub</td>
+            <td>
+                <input type="checkbox" id="Sub_English" name="Sub_English" value="English">
+                <label for="English"> English</label>
+                <input type="checkbox" id="Sub_Thai" name="Sub_Thai" value="Thai">
+                <label for="Thai"> Thai</label>
+            </td>
+        </tr>
+    </table>
+    <button onclick="MainFunction()">Send File</button>
+    <button onclick="AllFileFunction()">Send All File</button>
+    <button onclick="MyDriveFunction()">Send MyDrive</button>
+    <br/><br/>
+
+    <!-- Tran Zone
+
+    <table border="1">
+        <tr>
+            <td>Tran Name</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td>Tran Link</td>
             <td><input type="text"></td>
         </tr>
     </table>
     <button>Send Data</button>
+    <br/><br/> -->
+
+    <!-- Dowload Zone -->
+
+    <table border="1">
+        <tr>
+            <td>EP Name</td>
+            <td><input type="text" id="EPName"></td>
+        </tr>
+        <tr>
+            <td>Link Name</td>
+            <td><input type="text" id="LinkName"></td>
+        </tr>
+        <tr>
+            <td>Link Dowload</td>
+            <td><input type="text" id="LinkDowload"></td>
+        </tr>
+    </table>
+    <button onclick="DowloadLink()">Send Data</button>
+    <br/><br/>
+
+    <pre id="Showdata"></pre>
+
 </body>
 </html>
 
 <script>
-    let model = {
+    var modelAllFile = {
+        Id : null,
+        Type : null,
+        Name : null,
+        Category : null,
+        Chapter : null,
+        CheckChapter : null,
+        Trans : {Trans : null,Link : null},
+        Story : [],
+        Download : null, //lastId + .json
+        Description : null,
+        Picture : null,
+        Suscess : null
+    }
+
+    var model = {
         Id : null,
         Type : null,
         Name : null,
@@ -106,12 +210,167 @@
         Picture : null
     }
 
-    let modelDowload = {
+    var modelDowload = {
         EP : null,
-        Dowload : {Name : null,Link : null}
+        Dowload : []
+    }
+
+    var modelDowloadLink = {
+        Name : null,
+        Link : null
+    }
+
+    var modelMyDrive = {
+        Id : null,
+        Type : null,
+        Name : null,
+        Category : null,
+        Chapter : null,
+        CheckChapter : null,
+        Credit : {Trans: null,Link:null},
+        Dowload : null,
+        Group : null,
+        Year : null,
+        Sound : [],
+        Sub : [],
+        Picture : null,
+        Suscess : null
     }
 
     console.log(model)
+
+    function MainFunction(){
+        //load Last Id
+
+        //Add Value on Model 
+        model.Type = document.getElementById("Type").value;
+        model.Name = document.getElementById("Name").value;
+        model.Category = document.getElementById("Category").value;
+        model.Chapter = document.getElementById("Chapter").value;
+        model.CheckChapter = document.getElementById("CheckChapter").value;
+        model.Trans.Trans = document.getElementById("TransName").value;
+        model.Trans.Link = document.getElementById("TransLink").value;
+
+        if(document.getElementById("Hentai").checked){
+            model.Story.push(document.getElementById("Hentai").value);
+        }
+        if(document.getElementById("Commady").checked){
+            model.Story.push(document.getElementById("Commady").value);
+        }
+        if(document.getElementById("15").checked){
+            model.Story.push(document.getElementById("15").value);
+        }
+        if(document.getElementById("18").checked){
+            model.Story.push(document.getElementById("18").value);
+        }
+
+        model.Description = document.getElementById("Description").value;
+        model.Picture = document.getElementById("Picture").value;
+        console.log(model);
+        document.getElementById("Showdata").innerHTML = JSON.stringify(model,null,2);
+    }
+
+    function DowloadLink(){
+        modelDowload.EP = document.getElementById("EPName").value;
+        modelDowloadLink.Name = document.getElementById("LinkName").value;
+        modelDowloadLink.Link = document.getElementById("LinkDowload").value;
+        modelDowload.Dowload.push(modelDowloadLink);
+        model.Download.push(modelDowload);
+        modelDowload = {
+            EP : null,
+            Dowload : []
+        }
+        modelDowloadLink = {
+            Name : null,
+            Link : null
+        }
+        document.getElementById("EPName").value = ''
+        document.getElementById("LinkName").value = ''
+        document.getElementById("LinkDowload").value = ''
+
+        document.getElementById("Showdata").innerHTML = JSON.stringify(model,undefined,2);
+    }
+
+    function AllFileFunction(){
+        if(document.getElementById("Suscess1").checked){
+            modelDowloadLink.Suscess = true;
+        }
+        else{
+            modelDowloadLink.Suscess = false;
+        }
+        document.getElementById("Showdata").innerHTML = JSON.stringify(modelAllFile,undefined,2);
+    }
+
+    function MyDriveFunction(){
+        //modelMyDrive
+        modelMyDrive.Type = document.getElementById("Type").value;
+        modelMyDrive.Name = document.getElementById("Name").value;
+        modelMyDrive.Category = document.getElementById("Category").value;
+        modelMyDrive.Chapter = document.getElementById("Chapter").value;
+        modelMyDrive.CheckChapter = document.getElementById("CheckChapter").value;
+        modelMyDrive.Credit.Trans = document.getElementById("TransName").value;
+        modelMyDrive.Credit.Link = document.getElementById("TransLink").value;
+        modelMyDrive.Group = document.getElementById("Group").value;
+        modelMyDrive.Year = document.getElementById("Year").value;
+        modelMyDrive.Dowload = document.getElementById("Dowload").value;
+
+        if(document.getElementById("Sound_English").checked){
+            modelMyDrive.Sound.push(document.getElementById("Sound_English").value);
+        }
+        if(document.getElementById("Sound_Thai").checked){
+            modelMyDrive.Sound.push(document.getElementById("Sound_Thai").value);
+        }
+        if(document.getElementById("Sound_Japan").checked){
+            modelMyDrive.Sound.push(document.getElementById("Sound_Japan").value);
+        }
+        if(document.getElementById("Sub_English").checked){
+            modelMyDrive.Sub.push(document.getElementById("Sub_English").value);
+        }
+        if(document.getElementById("Sub_Thai").checked){
+            modelMyDrive.Sub.push(document.getElementById("Sub_Thai").value);
+        }
+        modelMyDrive.Picture = document.getElementById("Picture").value;
+        console.log(modelMyDrive);
+        document.getElementById("Showdata").innerHTML = JSON.stringify(modelMyDrive,null,2);
+    }
+
+    function MyDriveModel(){
+        // disble Story
+        SetStoryDisabled(true);
+        
+    }
+
+    function FileModel(){
+        SetStoryDisabled(false);
+        
+    }
+
+    function SetStoryDisabled(value){
+        document.getElementById("Hentai").disabled = value;
+        document.getElementById("Commady").disabled = value;
+        document.getElementById("15").disabled = value;
+        document.getElementById("18").disabled = value;
+        document.getElementById("Description").disabled = value;
+
+        document.getElementById("Group").disabled = !value;
+        document.getElementById("Year").disabled = !value;
+        document.getElementById("Sound_English").disabled = !value;
+        document.getElementById("Sound_Thai").disabled = !value;
+        document.getElementById("Sound_Japan").disabled = !value;
+        document.getElementById("Sub_English").disabled = !value;
+        document.getElementById("Sub_Thai").disabled = !value;
+
+        if(value){
+            document.getElementById('MyDrive').classList.add('textred');
+            document.getElementById('AllDrive').classList.remove('textred');
+        }
+        else{
+            document.getElementById('MyDrive').classList.remove('textred');
+            document.getElementById('AllDrive').classList.add('textred');
+        }
+    }
+    
+    
 
     //load json
 

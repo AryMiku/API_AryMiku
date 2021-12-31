@@ -1038,5 +1038,80 @@
         "Sub" : ["Thai"],
         "Picture" : "https://m.media-amazon.com/images/M/MV5BMTE1YjYwZmItYWEzMS00MGM3LTlhYTQtOWIyM2Y1MmUzNzUyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UY720_.jpg",
         "Suscess" : true
-    }
+    },
+    {
+        "Id": 62,
+        "Type": "Movie",
+        "Name": "John Wick",
+        "Category": "Movies",
+        "Chapter": "1",
+        "CheckChapter": "END",
+        "Credit": {
+          "Trans": "tt-torrent",
+          "Link": ""
+        },
+        "Dowload": "Goole Drive",
+        "Group": "John Wick",
+        "Year": "2014",
+        "Sound": [
+          "English",
+          "Thai"
+        ],
+        "Sub": [
+          "English",
+          "Thai"
+        ],
+        "Picture": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_FMjpg_UY720_.jpg",
+        "Suscess": null
+      },
+      {
+        "Id": 63,
+        "Type": "Movie",
+        "Name": "John Wick 2",
+        "Category": "Movies",
+        "Chapter": "1",
+        "CheckChapter": "END",
+        "Credit": {
+          "Trans": "tt-torrent",
+          "Link": ""
+        },
+        "Dowload": "Goole Drive",
+        "Group": "John Wick",
+        "Year": "2017",
+        "Sound": [
+          "English",
+          "Thai"
+        ],
+        "Sub": [
+          "English",
+          "Thai"
+        ],
+        "Picture": "https://m.media-amazon.com/images/M/MV5BMjE2NDkxNTY2M15BMl5BanBnXkFtZTgwMDc2NzE0MTI@._V1_FMjpg_UY740_.jpg",
+        "Suscess": null
+      },
+      {
+        "Id": 64,
+        "Type": "Movie",
+        "Name": "John Wick 3 Parabellum",
+        "Category": "Movies",
+        "Chapter": "1",
+        "CheckChapter": "END",
+        "Credit": {
+          "Trans": "tt-torrent",
+          "Link": ""
+        },
+        "Dowload": "Google Drive",
+        "Group": "John Wick",
+        "Year": "2019",
+        "Sound": [
+          "English",
+          "Thai"
+        ],
+        "Sub": [
+          "English",
+          "Thai"
+        ],
+        "Picture": "https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_FMjpg_UY740_.jpg",
+        "Suscess": null
+      }
 ]
