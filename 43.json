@@ -1,0 +1,38 @@
+{
+    "Id": 43,
+    "Type": "Anime SubThai",
+    "Name": "Fate/Grand Carnival",
+    "Category": "BD [1080P]",
+    "Chapter": "1 - 2",
+    "CheckChapter": "END",
+    "Trans": {
+      "Trans": "La Fordító der Fia",
+      "Link": "https://www.facebook.com/fiafansub/"
+    },
+    "Story": [
+      "15+"
+    ],
+    "Download" : [
+        {
+            "EP" : "Fate/Grand Carnival | เฟท/แกรนด์ คาร์นิวัล - 01",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/1dOhdTZD7mRA5-fMzGx-0p4BfudphCTZ1/view"}
+            ]
+        },
+        {
+            "EP" : "Fate/Grand Carnival | เฟท/แกรนด์ คาร์นิวัล - 02",
+            "Dowload" : [
+                {"Name" : "MKV","Link" : "https://drive.google.com/file/d/1-GicMIyOhscDgYFlH9ownoIbQjtQICei/view"}
+            ]
+        },
+        {
+            "EP" : "Fate/Grand Carnival Buddle | เฟท/แกรนด์ คาร์นิวัล แพ็คชุด  (1-2)",
+            "Dowload" : [
+                {"Name" : "RAR","Link" : "https://drive.google.com/file/d/1O_0DltjTQrAnkEFFQr9Ttm2YPB85VW0k/view"}
+            ]
+        }
+        
+    ],
+    "Description": "ซีรีย์ Anime ที่เน้นความฮาของตัวละครที่นำมาจาก FGO",
+    "Picture": "https://sv1.picz.in.th/images/2022/01/11/nKnzNt.jpg"
+}
