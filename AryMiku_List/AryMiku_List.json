@@ -3,7 +3,7 @@
         "Id" : 1,
         "Name" : "Fate/stay night : Heaven's Feel",
         "Suscess" : true,
-        "Img" : "heavenfeel.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQFi9R.jpg",
         "Category" : "Anime",
         "Type" : ["The Movie","BD"],
         "Episode" : "3/3"
@@ -12,7 +12,7 @@
         "Id" : 2,
         "Name" : "Hitman (Kouji Seo)",
         "Suscess" : false,
-        "Img" : "Hitman_2.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQFPvN.jpg",
         "Category" : "Manga",
         "Type" : ["PDF"],
         "Episode" : "18"
@@ -21,7 +21,7 @@
         "Id" : 3,
         "Name" : "Brawling Go",
         "Suscess" : true,
-        "Img" : "Brawling_2.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQFu8S.jpg",
         "Category" : "Manhua",
         "Type" : ["PDF"],
         "Episode" : "153"
@@ -30,7 +30,7 @@
         "Id" : 4,
         "Name" : "The Secret 3P",
         "Suscess" : true,
-        "Img" : "3P.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQF82W.jpg",
         "Category" : "Manhua",
         "Type" : ["PDF"],
         "Episode" : "18"
@@ -39,7 +39,7 @@
         "Id" : 5,
         "Name" : "YU-GI-OH ARC-V",
         "Suscess" : true,
-        "Img" : "yugiarcv_page.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQFXT1.jpg",
         "Category" : "Anime",
         "Type" : ["Series","TV-Rip"],
         "Episode" : "147"
@@ -48,7 +48,7 @@
         "Id" : 6,
         "Name" : "Ijiranaide, Nagatoro-san",
         "Suscess" : false,
-        "Img" : "nagatoro.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQFJUJ.jpg",
         "Category" : "Manga",
         "Type" : ["PDF"],
         "Episode" : "7"
@@ -57,7 +57,7 @@
         "Id" : 7,
         "Name" : "Kamen Rider Zi-O",
         "Suscess" : true,
-        "Img" : "Zio_2.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQFyca.png",
         "Category" : "Live Action",
         "Type" : ["Series","TV-Rip"],
         "Episode" : "49"
@@ -66,7 +66,7 @@
         "Id" : 8,
         "Name" : "Hidden No Aria",
         "Suscess" : false,
-        "Img" : "Aria_2.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQFF2q.jpg",
         "Category" : "Manga",
         "Type" : ["PDF"],
         "Episode" : "8"
@@ -75,7 +75,7 @@
         "Id" : 9,
         "Name" : "Fate/Grand Order: Zettai Maju Sensen Babylonia",
         "Suscess" : true,
-        "Img" : "fate_babi2.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQFIFz.jpg",
         "Category" : "Anime",
         "Type" : ["OVA","BD"],
         "Episode" : "1"
@@ -84,7 +84,7 @@
         "Id" : 10,
         "Name" : "Sword Art Online Alicization",
         "Suscess" : true,
-        "Img" : "sao_page.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQIdlR.jpg",
         "Category" : "Anime",
         "Type" : ["Series","BD"],
         "Episode" : "24"
@@ -93,7 +93,7 @@
         "Id" : 11,
         "Name" : "Nozoki Ana",
         "Suscess" : true,
-        "Img" : "ana2.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQIYqZ.jpg",
         "Category" : "Anime",
         "Type" : ["OVA","BD"],
         "Episode" : "1"
@@ -102,7 +102,7 @@
         "Id" : 12,
         "Name" : "Azur Lane",
         "Suscess" : false,
-        "Img" : "AzurLane.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQIz8I.jpg",
         "Category" : "Anime",
         "Type" : ["Series","BD"],
         "Episode" : "4"
@@ -111,7 +111,7 @@
         "Id" : 13,
         "Name" : "Kyochuu Rettou",
         "Suscess" : true,
-        "Img" : "Kyochuu_Rettou_2.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQIBgt.jpg",
         "Category" : "Anime",
         "Type" : ["The Movie","BD"],
         "Episode" : "1"
@@ -120,7 +120,7 @@
         "Id" : 14,
         "Name" : "Shadowverse",
         "Suscess" : false,
-        "Img" : "shadowverse_2.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQIf2e.jpg",
         "Category" : "Anime",
         "Type" : ["Series","BD"],
         "Episode" : "1"
@@ -129,7 +129,7 @@
         "Id" : 15,
         "Name" : "Kandagawa Jet Girls",
         "Suscess" : true,
-        "Img" : "kandagawa.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQI3tk.jpg",
         "Category" : "Anime",
         "Type" : ["Series","TV-Rip"],
         "Episode" : "12"
@@ -138,7 +138,7 @@
         "Id" : 16,
         "Name" : "Hada Camera",
         "Suscess" : false,
-        "Img" : "hada.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQI1qV.jpg",
         "Category" : "Manga",
         "Type" : ["JPEG"],
         "Episode" : "70"
@@ -147,7 +147,7 @@
         "Id" : 17,
         "Name" : "High School Of The Dead (Full Color)",
         "Suscess" : true,
-        "Img" : "HTOD.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQIKHQ.jpg",
         "Category" : "Manga",
         "Type" : ["CBZ"],
         "Episode" : "7"
@@ -156,7 +156,7 @@
         "Id" : 18,
         "Name" : "Nagatoro ComicAnthology (Manga)",
         "Suscess" : false,
-        "Img" : "naga_alt.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQIcSS.jpg",
         "Category" : "Manga",
         "Type" : ["One Shot"],
         "Episode" : "3"
@@ -165,7 +165,7 @@
         "Id" : 19,
         "Name" : "Fuuka สายลมรักฤดูร้อน",
         "Suscess" : true,
-        "Img" : "Fuuka_poster.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQIggn.jpg",
         "Category" : "Anime",
         "Type" : ["Series","BD"],
         "Episode" : "12"
@@ -174,7 +174,7 @@
         "Id" : 20,
         "Name" : "Dogeza de Tanondemita",
         "Suscess" : true,
-        "Img" : "Dogeza_full.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQIiCg.jpg",
         "Category" : "Anime",
         "Type" : ["Series","BD"],
         "Episode" : "13"
@@ -183,7 +183,7 @@
         "Id" : 21,
         "Name" : "Tawawa On Monday",
         "Suscess" : true,
-        "Img" : "Tawawa.jpg",
+        "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQIRIW.jpg",
         "Category" : "Anime",
         "Type" : ["Series","BD"],
         "Episode" : "14"
