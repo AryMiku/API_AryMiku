@@ -6,13 +6,13 @@
     "Category" : "Anime",
     "Type" : ["The Movie","BD"],
     "Episode" : "3/3",
-    "Dowload" : [
+    "Download" : [
         {
             "Id" : 1,
             "Name" : "Fate Stay Night : Heaven Feel I (Presage Flower)",
             "FileOwner" : "AryMiku",
             "Status" : true,
-            "DowloadLink" : [
+            "DownloadLink" : [
                 {
                     "Id" : 1,
                     "Name" : "MP4 (1.21 GB)",
@@ -30,7 +30,7 @@
             "Name" : "Fate Stay Night : Heaven Feel II (Lost butterfly)",
             "FileOwner" : "AryMiku",
             "Status" : true,
-            "DowloadLink" : [
+            "DownloadLink" : [
                 {
                     "Id" : 1,
                     "Name" : "MKV (3.71 GB)",
@@ -53,7 +53,7 @@
             "Name" : "Fate Stay Night : Heaven Feel III (Spring Song)",
             "FileOwner" : "AryMiku",
             "Status" : true,
-            "DowloadLink" : [
+            "DownloadLink" : [
                 {
                     "Id" : 1,
                     "Name" : "MKV (1.99 GB)",
