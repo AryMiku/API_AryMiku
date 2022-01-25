@@ -1,0 +1,209 @@
+{
+    "Id" : 2,
+    "Name" : "Hitman (Kouji Seo)",
+    "Suscess" : false,
+    "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQFPvN.jpg",
+    "Category" : "Manga",
+    "Type" : ["PDF"],
+    "ShortStory" : "พระเอกเป็นกองบรรณาธิการมือใหม่, นางเอกเป็นนักเขียนมังงะมือใหม่ ทั้งสองคนต่างต้องการทำให้ฝันของตัวเองเป็นจริง",
+    "Episode" : "18",
+    "Download" : [
+        {
+            "Id" : 1,
+            "Name" : "Hitman เล่มที่ 01 ตอนที่ 01",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "Mediafire",
+                    "Link" : "http://www.mediafire.com/file/ih9q87ttxav12vi/Hitman+-+001+%E0%B9%80%E0%B8%84%E0%B8%99%E0%B8%8B%E0%B8%B2%E0%B8%81%E0%B8%B4+%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B9%82%E0%B8%99%E0%B8%B0%E0%B8%AA%E0%B8%B6%E0%B9%80%E0%B8%81%E0%B8%B0.rar"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "2th.me",
+                    "Link" : "https://2th.me/a/1028/f1040/3014944"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "Google Drive",
+                    "Link" : "https://drive.google.com/open?id=1PbqVENazWTKfzZ2IRcoAhNE9H2WZgVSl"
+                }
+            ]
+        },
+        {
+            "Id" : 2,
+            "Name" : "Hitman เล่มที่ 01 ตอนที่ 02",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "Mediafire",
+                    "Link" : "http://www.mediafire.com/file/2ee4sb259v95a8x/Hitman+-+002+%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3.rar"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "2th.me",
+                    "Link" : "https://2th.me/a/1028/f1040/3014991"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "Google Drive",
+                    "Link" : "https://drive.google.com/open?id=1g1XEWVZSFYDzWgQ3NgozEWbbZvNIp10t"
+                }
+            ]
+        },
+        {
+            "Id" : 3,
+            "Name" : "Hitman เล่มที่ 01 ตอนที่ 03",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "Mediafire",
+                    "Link" : "http://www.mediafire.com/file/bv2j2dfxckidmu1/Hitman+-+003+%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99.rar"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "2th.me",
+                    "Link" : "https://2th.me/a/1028/f1040/3014992"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "Google Drive",
+                    "Link" : "https://drive.google.com/open?id=1MoLG7iOYubu-PFOd20z9tv0K823xuojY"
+                }
+            ]
+        },
+        {
+            "Id" : 4,
+            "Name" : "Hitman เล่มที่ 01 ตอนที่ 04",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "Mediafire",
+                    "Link" : "http://www.mediafire.com/file/dgk0n6gqdbpyieo/Hitman+-+004+%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%97%E0%B8%94%E0%B8%A1%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0.rar"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "2th.me",
+                    "Link" : "https://2th.me/a/1028/f1040/3014993"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "Google Drive",
+                    "Link" : "https://drive.google.com/open?id=1ANvm23iu_QArMY2yLLDRHIN4klXlgo0l"
+                }
+            ]
+        },
+        {
+            "Id" : 5,
+            "Name" : "Hitman เล่มที่ 01 ตอนที่ 05",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "Mediafire",
+                    "Link" : "http://www.mediafire.com/file/iu38hjw90jxqqjq/Hitman+-+005+%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%A7%E0%B8%B2%E0%B8%94.rar"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "2th.me",
+                    "Link" : "https://2th.me/a/1028/f1040/3014994"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "Google Drive",
+                    "Link" : "https://drive.google.com/open?id=18VgAP2-HboL9T_yMEKK-JE-ueUZty7YP"
+                }
+            ]
+        },
+        {
+            "Id" : 6,
+            "Name" : "Hitman เล่มที่ 01 ตอนที่ 06",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "Mediafire",
+                    "Link" : "http://www.mediafire.com/file/9u6hvx1mx5h3387/Hitman+-+006+%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9A.%E0%B8%81.%E0%B9%82%E0%B8%8B%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%99%E0%B9%81%E0%B8%A1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%8B%E0%B8%B5%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B1%E0%B8%9B%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C.rar"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "2th.me",
+                    "Link" : "https://2th.me/a/1028/f1040/3014995"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "Google Drive",
+                    "Link" : "https://drive.google.com/open?id=1qUxPIGCd-At1NfGJYzqLSrav5t-LHGdr"
+                }
+            ]
+        },
+        {
+            "Id" : 7,
+            "Name" : "Hitman เล่มที่ 01 ตอนที่ 07",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "Mediafire",
+                    "Link" : "http://www.mediafire.com/file/m8f6pcyn4dir155/Hitman+-+007+%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.rar"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "2th.me",
+                    "Link" : "https://2th.me/a/1028/f1040/3014996"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "Google Drive",
+                    "Link" : "https://drive.google.com/open?id=1FRb_LASe1IpiAPPvn4j0WO9xej8htqdk"
+                }
+            ]
+        },
+        {
+            "Id" : 7,
+            "Name" : "Hitman เล่มที่ 01 ตอนที่ Extra",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "Mediafire",
+                    "Link" : "http://www.mediafire.com/file/8wvird0k1qc3aol/Hitman+-+Extra+001+%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A.rar"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "2th.me",
+                    "Link" : "https://2th.me/a/1028/f1040/3014997"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "Google Drive",
+                    "Link" : "https://drive.google.com/open?id=1JEgNVzcwTallRJ75bgom1nK1bRSAw7yU"
+                }
+            ]
+        },
+        {
+            "Id" : 8,
+            "Name" : "Hitman เล่มที่ 02",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "Google Drive",
+                    "Link" : "https://drive.google.com/file/d/1uDnz5i9Eds-ZTnMt_3otoRzDLXvTsiUp/view"
+                }
+            ]
+        }
+    ]
+}
