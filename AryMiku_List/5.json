@@ -1,0 +1,472 @@
+{
+    "Id" : 5,
+    "Name" : "YU-GI-OH ARC-V",
+    "Suscess" : true,
+    "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQFXT1.jpg",
+    "Category" : "Anime",
+    "Type" : ["Series","TV-Rip"],
+    "ShortStory" : "ในเมื่องไมแอมีที่โรงเรียนสอนการดูเอลยูโช นักเรียนมัธยมปลายปีที่สองชื่อว่าซาคากิ ยูยะ ปรารถนาที่จะเป็นดูเอลเอนเตอร์เทนมืออาชีพเหมือนกับพ่อ วันหนึ่งตอนที่ยูยะกำลังดูเอลได้ปลุกวิธีการอัญเชิญแบบใหม่ที่เรียกว่า การอัญเชิญเพนดูลัม จึงทำให้ดึงดูดความสนใจจากอาคาบะ เรย์จิ ประธานบริษัทเลโอ คอร์ปอเรชัน และทำให้ได้ดวลหนึ่งต่อหนึ่งกันแต่การดวลก็ถูกหยุดไว้ก่อน ต่อมายูยะพบกับดูเอลลิสต์สามคนที่มีหน้าตาคล้ายคลึงกับเขาอย่างมากซึ่งจะโผล่มาตามลำดับ ดูเอลลิสต์นิสัยเงียบสงบเป็นผู้อัญเชิญเอกซ์ซีสชื่อว่ายูโตะ, ดูเอลลิสต์ที่มีความมั่นใจสูงเป็นผู้อัญเชิญซิงโครชื่อว่ายูโก, และดูเอลลิสต์นิสัยซาดิสเป็นผู้อัญเชิญฟิวชันชื่อว่ายูริ ในภายหลังยูยะได้รู้ว่าคนที่หน้าเหมือนกับเขามาจากมิติอื่นซึ่งยูยะอยู่ใน มิติสแตนดาร์ด ในระหว่างการแข่งขันไมแอมีแชมเปียนซิพยูยะและเพื่อนพ้องก็รู้ว่าอยู่ในท่ามกลางความขัดแย้งระหว่างมิติกับ ดูเอลอคาเดเมีย ที่อยู่ใน มิติฟิวชัน ซึ่งมีพ่อของเรย์จิเป็นผู้นำที่มีชื่อว่า อาคาบะ เลโอ ผู้ที่พยายามรวมทั้งสี่มิติเข้าด้วยกัน เพื่อที่จะหยุดเป้าหมายของพ่อ เรย์จิได้สร้างกลุ่มที่เรียกว่า แลนเซอร์ โดยมียูยะและเพื่อนพ้องเข้าร่วมด้วยและจะต้องเดินทางข้าม มิติซิงโคร และ มิติเอกซ์ซีส",
+    "Episode" : "(121-129)(137-139)(141-147)",
+    "Download" : [
+        {
+            "Id" : 1,
+            "Name" : "Yu-Gi-Oh Arc-V - 120 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=1LKHbQmqcQoZDbaqlAok-DtKvftThLaO_"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1GVZYZUq7xGe5ydgdKiPzEjASvNQOzZcp"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 2,
+            "Name" : "Yu-Gi-Oh Arc-V - 121 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=1sVFu3khWJr2j7f7DE1RtLa276vA2Onf5"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1sFXeTdfcu_G8JDt7MjiQHs9WMCfJJXo9"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 3,
+            "Name" : "Yu-Gi-Oh Arc-V - 122 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=1Y2Kl1N34zNTJPh1gP8CbK0xg1U94uMi8"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1L50eJp7EjaIe9nQqV85E73fDDk7vsECY"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 3,
+            "Name" : "Yu-Gi-Oh Arc-V - 123 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=1yFAjBsI7q28A2qK0Zo45-IZ_5EyynGDx"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1LkZ8Lv02wZ2y-MhgpstEMI_oPjLHA7Hx"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 4,
+            "Name" : "Yu-Gi-Oh Arc-V - 124 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=18T4A3VBbeDOTsJlPzeIU2Xm2H4wIDOXD"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1A4b80iIVXS-0THIoYheSM8QfjTRV5dIY"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 5,
+            "Name" : "Yu-Gi-Oh Arc-V - 125 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=1xl_LxMUYHLMz8IuHtRcMISix-JLJOCFP"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1NFPni0DmAlnzAKcVi5Sxop2kGpkrCc7D"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 6,
+            "Name" : "Yu-Gi-Oh Arc-V - 126 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=1Vtf6GPb6r6iCsJRSvIfKcpzD35QYH28c"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1NoZ4ZzFa3XppQKYhvk7C4sLHwizfEEr2"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 7,
+            "Name" : "Yu-Gi-Oh Arc-V - 127 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=1q55_nKp3IZ4iTwdwlNRKDftavfKAfKQ1"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1FOHPWWxUVgYt5WHWy2UcDOvbK7uDaQnj"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 8,
+            "Name" : "Yu-Gi-Oh Arc-V - 128 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=1Xr-lEb9mmlisW-NBkFSDVfcO0PpW_lg9"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1ONRb6wAfth9fnd9BxBE983Y9Sl5kiyKN"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 9,
+            "Name" : "Yu-Gi-Oh Arc-V - 129 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=1zfzWgfzlx9D3MWMhGdHfQhdr216hlBEK"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1FwSJ77DNEc3WiWNm1ivfoeNWJXb4WDEn"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 10,
+            "Name" : "Yu-Gi-Oh Arc-V - 137 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=1vH5mMhgiGoSHEZLB6wcpgNjbrQye7VJt"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1ecZJ3rdK1zOZQ-xRe25ILNSepS1SRGDL"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 11,
+            "Name" : "Yu-Gi-Oh Arc-V - 138 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=1CMXbd0E-YeMZUZ7Be79CM8_5DM1h9-AS"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1MJ_dgTX7YlJEeeRHFX2rZmB6hCg9HsLk"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 12,
+            "Name" : "Yu-Gi-Oh Arc-V - 139 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=1GmoJ4vjdSX4T-2gPHT7TxDFYyoTDP5bT"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1BxZ83LxpvQcy_8pyl1etYfD29Zuc2wkp"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 13,
+            "Name" : "Yu-Gi-Oh Arc-V - 141 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=1pvNyh4OWiQIhnoJd_dDBMq7S7kJRkqMF"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1e5kJn-ipKJYE17jxYzERTDt83gypNWMQ"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 14,
+            "Name" : "Yu-Gi-Oh Arc-V - 142 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=1K8HUVtyIKES_SB0VsPwZL9Zpj_J-PvZS"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1VcqtXqe5L9obEKlUpCNQq0QYVLqL9V3d"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 15,
+            "Name" : "Yu-Gi-Oh Arc-V - 143 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=1RoRn8v_yQOEvIwUfY9uCI2Y-YXqGgjIR"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1A4xa67Yt_noLq0ZNau1cHuCTvJYl4YH3"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 16,
+            "Name" : "Yu-Gi-Oh Arc-V - 144 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=12v6UoUuOnXJIoUI6Zuao-dBURm2-_ECf"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1JcS7577RSgQhdDO33hRPROQeF17AJSJl"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 17,
+            "Name" : "Yu-Gi-Oh Arc-V - 145 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=1l1LlH89f1RJPyPvjNaxC-15LRPyBR4pc"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=107TZCbo0MCACM-m6JMz5TMNO3CjCAbAr"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 18,
+            "Name" : "Yu-Gi-Oh Arc-V - 146 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=1umFWLdPWWkd1mgwzklgyuqkq9XOx0hrc"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1DehrGfQ_T6vqNGj2yBkcs1EKZGd_p7GC"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        },
+        {
+            "Id" : 19,
+            "Name" : "Yu-Gi-Oh Arc-V - 147 [TH]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MP4",
+                    "Link" : "https://drive.google.com/open?id=19CZSbCIiBasFc1zOfM4GSAi8kM8xM9C"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "MKV",
+                    "Link" : "https://drive.google.com/open?id=1jcp4mPVK4RzBBFuHDZ57grIaS5CxfhKm"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/YU-GI-OH%20ARC-V"
+                }
+            ]
+        }
+    ]
+}
