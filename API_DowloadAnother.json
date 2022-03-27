@@ -829,6 +829,26 @@
         "Description": "ซีรีย์ Anime ที่เน้นความฮาของตัวละครที่นำมาจาก FGO",
         "Picture": "https://sv1.picz.in.th/images/2022/01/11/nKnzNt.jpg",
         "Suscess" : true
+      },
+      {
+        "Id": 44,
+        "Type": "Anime SubThai",
+        "Name": "Shuumatsu no Harem (World's End Harem) (อวสานฮาเร็มสิ้นโลก)",
+        "Category": "TV-Rip [1080P]",
+        "Chapter": "1 - 11",
+        "CheckChapter": "END",
+        "Trans": {
+          "Trans": "Daruma-Fansub",
+          "Link": "https://www.facebook.com/DarumaFansub/"
+        },
+        "Story": [
+          "18+",
+          "Hentai"
+        ],
+        "Download": "44.json",
+        "Description": "ในปี 2040 ถึงเทคโนโลยีที่ล้ำหน้า แต่ก็เกิดปัญหาเมื่อมีไวรัสปริศนา MK (Male Killer) ที่ทำให้ผู้ชายตายจนเกือบหมดโลก ผ่านไป 5 ปี เรย์โตะ และผู้ชายอีก 4 คน ที่เคยหลับไปจากโคลด์สลีปก่อนเหตุการณ์นั้น ได้ลืมตาตื่นขึ้นมาจากการแช่แข็ง มีภูมิต้านทานไวรัสปริศนานี้ กลายเป็นความหวังสุดท้ายของมนุษยชาติที่จะสืบเผ่าพันธุ์ต่อไปได้",
+        "Picture": "https://sv1.picz.in.th/images/2022/03/27/8BxD1S.jpg",
+        "Suscess" : true
       }
     
 ]
