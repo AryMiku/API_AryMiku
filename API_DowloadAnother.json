@@ -849,6 +849,26 @@
         "Description": "ในปี 2040 ถึงเทคโนโลยีที่ล้ำหน้า แต่ก็เกิดปัญหาเมื่อมีไวรัสปริศนา MK (Male Killer) ที่ทำให้ผู้ชายตายจนเกือบหมดโลก ผ่านไป 5 ปี เรย์โตะ และผู้ชายอีก 4 คน ที่เคยหลับไปจากโคลด์สลีปก่อนเหตุการณ์นั้น ได้ลืมตาตื่นขึ้นมาจากการแช่แข็ง มีภูมิต้านทานไวรัสปริศนานี้ กลายเป็นความหวังสุดท้ายของมนุษยชาติที่จะสืบเผ่าพันธุ์ต่อไปได้",
         "Picture": "https://sv1.picz.in.th/images/2022/03/27/8BxD1S.jpg",
         "Suscess" : true
+      },
+      {
+        "Id": 45,
+        "Type": "Anime SubThai",
+        "Name": "Princess Connect! Re:Dive Season 2",
+        "Category": "TV-Rip [1080P]",
+        "Chapter": "1 - 12",
+        "CheckChapter": "END",
+        "Trans": {
+          "Trans": "Otaku-Fs",
+          "Link": "https://www.facebook.com/newotakufansub"
+        },
+        "Story": [
+          "Fantasy",
+          "Game"
+        ],
+        "Download": "45.json",
+        "Description": "ในดินแดนอันสวยงามของแอสตร้าซึ่งเป็นเด็กหนุ่มยูกิตื่นขึ้นมาพร้อมกับความจำเสื่อม เขาก่อตั้งกิลด์ “เรือนเลิศรศ” และร่วมกับ หม่าม๊าครก, เปโกรีน Yabai Desune และ แข่ว การผจญภัยของพวกเขาเริ่มต้นขึ้น!",
+        "Picture": "https://sv1.picz.in.th/images/2022/03/30/8tzThu.jpg",
+        "Suscess" : true
       }
     
 ]

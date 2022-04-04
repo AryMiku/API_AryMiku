@@ -1,0 +1,103 @@
+{
+    "Id" : 6,
+    "Name" : "Ijiranaide, Nagatoro-san",
+    "Suscess" : false,
+    "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQFJUJ.jpg",
+    "Category" : "Manga",
+    "Type" : ["PDF"],
+    "ShortStory" : "ตั้งแต่รุ่นพี่จอมเนิร์ดได้พบกับฮายาเสะ นางาโทโระ ชีวิตของเขาก็เกิดความโกลาหลขึ้น นางาโทโระสังเกตเห็นปฏิกิริยาทำตัวไม่ถูกของรุ่นพี่ เวลาที่ถูกนักเรียนหญิงคนอื่นหยอกล้อ เธอรู้สึกว่าแบบนี้สนุกดี และเริ่มกลั่นแกล้งเขาไม่หยุด แต่ความจริงแล้วการกลั่นแกล้งของเธอเป็นการแสดงออกถึงความรู้สึกดีที่มีต่อรุ่นพี่ ทว่ารุ่นพี่กลับไม่รู้ตัวเลย…",
+    "Episode" : "7",
+    "Download" : [
+        {
+            "Id" : 1,
+            "Name" : "Ijiranaide, Nagatoro-san เล่ม 01",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MEGA",
+                    "Link" : "https://mega.nz/file/5IlCjLqS#-COazz1gptSN1aMqktfc9_JCLHaw1mKxmdRNo_e3On4"
+                }
+            ]
+        },
+        {
+            "Id" : 2,
+            "Name" : "Ijiranaide, Nagatoro-san เล่ม 02",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MEGA",
+                    "Link" : "https://mega.nz/file/5IlCjLqS#-COazz1gptSN1aMqktfc9_JCLHaw1mKxmdRNo_e3On4"
+                }
+            ]
+        },
+        {
+            "Id" : 3,
+            "Name" : "Ijiranaide, Nagatoro-san เล่ม 03",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MEGA",
+                    "Link" : "https://mega.nz/file/5IlCjLqS#-COazz1gptSN1aMqktfc9_JCLHaw1mKxmdRNo_e3On4"
+                }
+            ]
+        },
+        {
+            "Id" : 4,
+            "Name" : "Ijiranaide, Nagatoro-san เล่ม 04",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MEGA",
+                    "Link" : "https://mega.nz/file/5IlCjLqS#-COazz1gptSN1aMqktfc9_JCLHaw1mKxmdRNo_e3On4"
+                }
+            ]
+        },
+        {
+            "Id" : 5,
+            "Name" : "Ijiranaide, Nagatoro-san เล่ม 05",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MEGA",
+                    "Link" : "https://mega.nz/file/JVMCzbQY#nKtC0ICfU1OwDXGNayq2hxGmD2UpzGFL0jRaSxGtPNo"
+                }
+            ]
+        },
+        {
+            "Id" : 6,
+            "Name" : "Ijiranaide, Nagatoro-san เล่ม 06",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MEGA",
+                    "Link" : "https://mega.nz/file/VR1klZ4Y#XwzeDZqY8ZwamGshcw6X3sQ_Rb_nWKqVH84KiBtOBBA"
+                }
+            ]
+        },
+        {
+            "Id" : 7,
+            "Name" : "Ijiranaide, Nagatoro-san เล่ม 07",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MEGA",
+                    "Link" : "https://mega.nz/file/Ud1m0TwB#ZLqE-zXDF538OylDvW4Aj4NKeu1itFaUMc5L0qFMqUM"
+                }
+            ]
+        }
+    ]
+}
