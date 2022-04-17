@@ -1,0 +1,568 @@
+{
+    "Id" : 10,
+    "Name" : "Sword Art Online Alicization",
+    "Suscess" : true,
+    "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQIdlR.jpg",
+    "Category" : "Anime",
+    "Type" : ["Series","BD"],
+    "ShortStory" : "ช่วง มิถุนายน – สิงหาคม 2026 คิริโตะ รับงานเป็นผู้ทดสอบระบบ FullDive รุ่นที่ 4 Soul Translator ซึ่งทำให้เขาไปอยู่ในโลกเสมือน Underworld ที่เวลาเดินเร็วกว่าโลกความเป็นจริง 1,000 เท่า เขาได้ใช้ชีวิตในนั้นตั้งแต่เด็ก จนใช้เวลาร่วม 11 ปี แต่ความทรงจำเหตุการณ์ต่างๆ กลับถูกผนึกไว้หลังกลับสู่โลกเดิม จนวันหนึ่ง คิริโตะบาดเจ็บสาหัสจาก Johnny Black (อดีตสมาชิกของ Death Gun ที่รอดอยู่) ต่อหน้าอาสึนะ ผลจากยาฉีดเข้าร่าง ทำให้เขาหยุดหายใจ แม้จะช่วยทำให้หัวใจเต้นอีกครั้ง แต่เกิดความเสียหายทางสมองจากขาดอ๊อกซิเจนเป็นเวลานาน คิริโตะอยู่ในอาการโคม่าไม่ได้สติ มีกลุ่มคนที่ใช้อุปกรณ์ Soul Translators พาเขาไปรักษา ซึ่งทำให้เขาได้ความทรงจำเดิมในโลก Underworld กลับไปผจญภัยในโลกนั้น จนกว่าจะมีหนทางพาเขากลับมาโลกเดิมได้",
+    "Episode" : "0",
+    "Pass" : [
+        "รหัส Dowload ไฟล์ MKV : v6qv",
+        "รหัส Dowload ไฟล์ MP4 : iq23"
+    ],
+    "Download" : [
+        {
+            "Id" : 1,
+            "Name" : "Sword Art Online Alicization - 01 Alicization [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 2,
+            "Name" : "Sword Art Online Alicization - 02 ต้นไม้ปีศาจ [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 3,
+            "Name" : "Sword Art Online Alicization - 03 เทือกเขาสุดขอบ [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 4,
+            "Name" : "Sword Art Online Alicization - 04 ออกเดินทาง [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 5,
+            "Name" : "Sword Art Online Alicization - 05 โอเซียนเทอเทิล [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 6,
+            "Name" : "Sword Art Online Alicization - 06 โปรเจค Alicization [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 7,
+            "Name" : "Sword Art Online Alicization - 07 โรงเรียนสอนวิชาดาบ [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 8,
+            "Name" : "Sword Art Online Alicization - 08 เกียรติยศแห่งนักดาบ [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 9,
+            "Name" : "Sword Art Online Alicization - 09 หน้าที่ของขุนนาง [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 10,
+            "Name" : "Sword Art Online Alicization - 10 รายการต้องห้าม [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 11,
+            "Name" : "Sword Art Online Alicization - 11 เซ็นทรัลคาธีดรัล [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 12,
+            "Name" : "Sword Art Online Alicization - 12 นักปราชญ์แห่งหอสมุด [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 13,
+            "Name" : "Sword Art Online Alicization - 13 ผู้ปกครองและผู้เป็นสื่อกลาง [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 14,
+            "Name" : "Sword Art Online Alicization - 14 อัศวินสีเพลิง [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 15,
+            "Name" : "Sword Art Online Alicization - 15 อัศวินแห่งแสงตะวัน [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 16,
+            "Name" : "Sword Art Online Alicization - 16 อัศวินหอมหมื่นลี้ [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 17,
+            "Name" : "Sword Art Online Alicization - 17 สัญญาสงบศึก [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 18,
+            "Name" : "Sword Art Online Alicization - 18 วีรบุรุษในตำนาน [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 19,
+            "Name" : "Sword Art Online Alicization - 19 ผนึกในตาขวา [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 20,
+            "Name" : "Sword Art Online Alicization - 20 ซินเธไซส์ [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 21,
+            "Name" : "Sword Art Online Alicization - 21 อัศวินหมายเลข 32 [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 22,
+            "Name" : "Sword Art Online Alicization - 22 มนุษย์ดาบยักษ์ [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 23,
+            "Name" : "Sword Art Online Alicization - 23 แอนมินิสเตรเตอร์ [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        },
+        {
+            "Id" : 24,
+            "Name" : "Sword Art Online Alicization - 24 อัศวินของผม [TH][1080P][END]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "TERABOX (MP4)",
+                    "Link" : "https://terabox.com/s/1BpiThXy1Rbe3W271y_TD6A"
+                },
+                {
+                    "Id" : 2,
+                    "Name" : "TERABOX (MKV)",
+                    "Link" : "https://terabox.com/s/1weyzI_JLqQr1uuCo1IKQnw"
+                },
+                {
+                    "Id" : 3,
+                    "Name" : "ASS",
+                    "Link" : "https://github.com/AryMiku/ARC_V_SUB/tree/master/Sword%20Art%20Online%20Alicization"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "Id" : 7,
+    "Name" : "Kamen Rider Zi-O",
+    "Suscess" : true,
+    "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQFyca.png",
+    "Category" : "Live Action",
+    "Type" : ["Series","TV-Rip"],
+    "ShortStory" : "โทคิวะ โซวโก เด็กหนุ่มมัธยมปลายผู้มีความฝันอยากจะเป็น ราชา ได้มาพบกับสาวน้อยจากโลกอนาคต สึคุโยมิ ก่อนที่เธอจะบอกกับโซวโกว่า เค้าจะกลายเป็นสุดยอดจอมมารผู้ชั่วร้ายในอีก 50 ปีข้างหน้า ระหว่างที่กำลังงงกับสิ่งที่สึคุโยมิได้เล่าไปนั้น เมียวโคอิน เกซ ชายผู้แปลงร่างเป็นไรเดอร์จากโลกอนาคตได้ปรากฏตัวขึ้นเพื่อสังหารโซวโก ด้วยเหตุการณ์ความวุ่นวายจากน้ำมือของผู้ปั่นป่วนแห่งห้วงเวลา ไทม์แจคเกอร์ ทำให้โซวโกเลือกที่จะแปลงร่างเป็น คาเมนไรเดอร์จิโอ ตามคำชี้แนะของ วอซ ชายผู้มาจากอนาคตเช่นเดียวกัน รวมไปถึงการร่วมมือกับเกซเพื่อต่อสู้และช่วยเหลือกันเพื่อปกป้องช่วงเวลาของเหล่าเฮเซไรเดอร์อีกด้วย ตำนานการเดินทางไปยังห้วงเวลาของเหล่าเลเจนท์ไรเดอร์ได้เริ่มต้นขึ้น พร้อมกับการตามไขปริศนาของสิ่งที่เกิดขึ้นในอนาคตอีก 50 ปีข้างหน้า ว่าชายหนุ่มผู้อ่อนโยนอย่างโซวโกนั้นจะกลายเป็นจอมมารผู้ชั่วร้ายได้อย่างไร",
+    "Episode" : "45-49",
+    "Download" : [
+        {
+            "Id" : 1,
+            "Name" : "Kamen Rider Zi-O - 45 [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MEGA (MP4)",
+                    "Link" : "https://mega.nz/#!6lY2wIxY!OKsvkORyn0kYklkNHegBiPW6kKyqar5t4pASBKfCjKg"
+                }
+            ]
+        },
+        {
+            "Id" : 2,
+            "Name" : "Kamen Rider Zi-O - 46 [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MEGA (MP4)",
+                    "Link" : "https://mega.nz/#!q4IiCKbS!KMsi4X9JJCMlynF4TQ1qAkUUQuWlF472xHV0GTUDdT0"
+                }
+            ]
+        },
+        {
+            "Id" : 3,
+            "Name" : "Kamen Rider Zi-O - 47 [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MEGA (MP4)",
+                    "Link" : "https://mega.nz/#!mpglmS7T!JrgvafhUFQjpmfGKp-Clu5HuL3mEp-MGLIonXbSNhA8"
+                }
+            ]
+        },
+        {
+            "Id" : 4,
+            "Name" : "Kamen Rider Zi-O - 48 [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MEGA (MP4)",
+                    "Link" : "https://mega.nz/#!P0YBlKSB!iRFw0i_DBivJXohk7lhrJIezWu7RRAQyvCXpLdlBr0E"
+                }
+            ]
+        },
+        {
+            "Id" : 5,
+            "Name" : "Kamen Rider Zi-O - 49 [TH][1080P][END]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MEGA (MP4)",
+                    "Link" : "https://mega.nz/#!ToZRAIrA!ui9OEMZb4BVbv11wdo0XShiQhUuEnl61UQxE3hIM60E"
+                }
+            ]
+        }
+    ]
+}

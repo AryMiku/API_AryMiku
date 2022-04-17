@@ -1,0 +1,25 @@
+{
+    "Id" : 9,
+    "Name" : "Fate/Grand Order: Zettai Maju Sensen Babylonia",
+    "Suscess" : true,
+    "Img" : "https://sv1.picz.in.th/images/2022/01/16/nQFIFz.jpg",
+    "Category" : "Anime",
+    "Type" : ["OVA","BD"],
+    "ShortStory" : "เป็นอนิเมะที่ดัดแปลงบทมาจากเกมมือถือ Fate/Grand Order – Season 1 บทที่ 7 โดยจะเป็นเรื่องราวในยุค B.C.2655 ที่เกิดความผิดปกติมีเทพธิดาและสัตว์มายาจำนวนมากได้มาโจมตีมนุษย์ ทำให้ Gilgamesh ต้องเปลี่ยนแปลงเมืองที่ควรจะเจริญรุ่งเรืองให้กลับกลายเป็นป้อมปราการ และในยุคนี้ Enkidu ที่เสียชีวิตไปแล้วก็กลับมาปรากฏตัวขึ้นอีกครั้ง พวกตัวเอกจึงต้องเดินทางมาแก้ไขความผิดปกติที่เกิดขึ้นในยุคนี้",
+    "Episode" : "0",
+    "Download" : [
+        {
+            "Id" : 1,
+            "Name" : "Fate/Grand Order: Zettai Maju Sensen Babylonia - 00 [TH][1080P]",
+            "FileOwner" : "AryMiku",
+            "Status" : true,
+            "DownloadLink" : [
+                {
+                    "Id" : 1,
+                    "Name" : "MEGA (MP4)",
+                    "Link" : "https://mega.nz/#!79onXChS!HfG7Rz8jUk-6H5KaesZu-3yLNncohme6OKtKOmRl2r8"
+                }
+            ]
+        }
+    ]
+}
