@@ -3,7 +3,7 @@
         "Type" : "Manhwa TH",
         "Name" : "Sister Neighbors",
         "Category" : "Manga",
-        "Chapter" : "1-124",
+        "Chapter" : "1-130",
         "CheckChapter" : "OnGoing",
         "Trans" : {"Trans" : "นักแปล Hiroki", "Link" : "https://www.facebook.com/Hiroki.Translators"},
         "Story" : ["Hentai","Drama","Love"],
@@ -786,6 +786,36 @@
                 "EP" : "Sister Neighbors - 125",
                 "Dowload" : [
                     {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1vCx2OTIGKmOAzC6kHYMeTnIu2ulKEO3i/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 126",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1pR_0h4TYkVgKHqcAIT8VHzXQJ6jQO5GH/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 127",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1aAZIL8UztkWzg5VNWpgAJqnMIf551Bq6/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 128",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1VfBkw7v0z-xK7hirRAIr_SnZLJeE-CAQ/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 129",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/14674dPEkSW0PhMB6gcn4q1RyOOIe41cu/view"}
+                ]
+            },
+            {
+                "EP" : "Sister Neighbors - 130",
+                "Dowload" : [
+                    {"Name" : "PDF","Link" : "https://drive.google.com/file/d/1rSMT0yZsha_TTXTLeoM8nl0L9qiD34c5/view"}
                 ]
             }
         ],
