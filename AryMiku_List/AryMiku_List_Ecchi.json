@@ -1,0 +1,31 @@
+[
+    {
+      "Id" : 1,
+      "Name" : "Ochita Yuusha to Maou",
+      "Suscess" : true,
+      "Img" : "https://s1.hentaithai.net/image/2022/2022-10-23/ugatsu-matsuki-ochita-yuusha-to-maou-2d-comic-magazine-crazy-psycho-les-kyuuai-ryoujoku-vol-2-025747-001.jpg",
+      "Category" : "OneShot",
+      "Artist" : "Ugatsu Matsuki",
+      "Episode" : "1/1",
+      "Download" : [
+        {
+          "Id" : 1,
+          "Name" : "[Ugatsu Matsuki] Ochita Yuusha to Maou [TH]",
+          "FileOwner" : "AryMiku",
+          "Status" : true,
+          "DownloadLink" : [
+              {
+                "Id" : 1,
+                "Name" : "HentaiThai",
+                "Link" : "https://hentaithai.com/forum/index.php?topic=34524.0"
+              },
+              {
+                "Id" : 2,
+                "Name" : "2th.me",
+                "Link" : "https://2th.me/a/manga/f1115/3038066"
+              }
+          ]
+        }
+      ]
+    }
+]
