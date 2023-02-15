@@ -931,6 +931,26 @@
         "Description": "เรื่องราวในปี ค.ศ. 2126 ของเกมเมอร์ผู้คลั่งไคล้เกม RPG ออนไลน์คนหนึ่ง หลังจากเขาและเพื่อนๆ ได้ร่วมกันสร้างความยิ่งใหญ่ในโลกของเกม DMMO-RPG (Dive Massively Multiplayer Online Role Playing Game) ชื่อดังอย่าง Yggdrasil จนเมื่อเวลาผ่านไป 12 ปี เกมที่ครั้งหนึ่งเคยโด่งดังก็ถึงคราวที่เซิร์ฟเวอร์ต้องปิดตัวลง เขาจึงกลับมาออนไลน์ยังโลกเสมือนเพื่อรำลึกความหลังกับเหล่ามรดกความทรงจำที่ทุกคนร่วมกันสร้างเป็นครั้งสุดท้าย",
         "Picture": "https://sv1.picz.in.th/images/2022/10/02/p5cMsl.jpg",
         "Suscess" : true
+      },
+      {
+        "Id": 49,
+        "Type": "Anime SubThai",
+        "Name": "Kage no Jitsuryokusha ni Naritakute!",
+        "Category": "TV-Rip [1080P]",
+        "Chapter": "1 - 6",
+        "CheckChapter": "OnGoing",
+        "Trans": {
+          "Trans": "DarumaFansub",
+          "Link": "https://www.facebook.com/DarumaFansub"
+        },
+        "Story": [
+          "Fantasy",
+          "AnotherWorld"
+        ],
+        "Download": "49.json",
+        "Description": "",
+        "Picture": "https://sv1.picz.in.th/images/2023/02/15/LuLiU0.jpg",
+        "Suscess" : false
       }
     
 ]
